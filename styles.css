@@ -17,8 +17,10 @@ html {
   scroll-behavior: smooth;
   scroll-padding-top: 110px;
 }
+
+body {
   margin: 0;
-  background: var(--background);
+  background: var(--surface);
   color: var(--text);
   font-family: Arial, Helvetica, sans-serif;
   line-height: 1.6;
@@ -33,6 +35,13 @@ header {
   position: sticky;
   top: 0;
   z-index: 1000;
+  width: 100%;
+  background: rgba(245, 242, 235, 0.96);
+  border-bottom: 1px solid var(--border);
+  backdrop-filter: blur(12px);
+}
+
+.header-inner {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -40,11 +49,9 @@ header {
   max-width: var(--max-width);
   margin: 0 auto;
   padding: 24px 32px;
-  background: rgba(245, 242, 235, 0.96);
-  backdrop-filter: blur(12px);
 }
 
-header > a:first-child {
+.header-inner > a:first-child {
   font-family: Georgia, "Times New Roman", serif;
   font-size: 1.4rem;
   font-weight: 700;
@@ -61,7 +68,7 @@ nav a:hover {
   color: var(--accent);
 }
 
-header > a:last-child,
+.header-inner > a:last-child,
 section > a {
   display: inline-block;
   padding: 12px 20px;
@@ -170,7 +177,7 @@ footer p {
 }
 
 @media (max-width: 900px) {
-  header {
+  .header-inner {
     align-items: flex-start;
     flex-wrap: wrap;
   }
@@ -188,14 +195,14 @@ footer p {
 }
 
 @media (max-width: 640px) {
-  header,
+  .header-inner,
   main,
   footer {
     padding-left: 20px;
     padding-right: 20px;
   }
 
-  header > a:last-child {
+  .header-inner > a:last-child {
     display: none;
   }
 
