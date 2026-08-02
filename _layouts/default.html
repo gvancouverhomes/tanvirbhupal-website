@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>
+    {% if page.title %}
+      {{ page.title }} | {{ site.title }}
+    {% else %}
+      {{ site.title }}
+    {% endif %}
+  </title>
+
+  <meta
+    name="description"
+    content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}"
+  >
+
+  <link rel="stylesheet" href="{{ '/styles.css' | relative_url }}">
+</head>
+
+<body>
+  <header>
+    <div class="header-inner">
+      <a href="{{ '/' | relative_url }}">Tanvir Bhupal</a>
+
+      <nav>
+        <a href="{{ '/buying/' | relative_url }}">Buying</a>
+        <a href="{{ '/coordinating-a-move/' | relative_url }}">Coordinating a Move</a>
+        <a href="{{ '/selling/' | relative_url }}">Selling</a>
+        <a href="{{ '/areas/' | relative_url }}">Areas</a>
+        <a href="{{ '/articles/' | relative_url }}">Articles</a>
+        <a href="{{ '/about/' | relative_url }}">About</a>
+      </nav>
+
+      <a href="{{ '/contact/' | relative_url }}">Talk through your move</a>
+    </div>
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer>
+    <p>Tanvir Bhupal, Real Estate Advisor</p>
+    <p>eXp Realty</p>
+    <p>Not intended to solicit clients currently under contract.</p>
+  </footer>
+</body>
+</html>
