@@ -1,0 +1,13 @@
+title: Tanvir Bhupal
+description: Practical real estate guidance for families moving to Fleetwood, Tynehead, and Fraser Heights.
+url: "https://tanvirbhupal.com"
+baseurl: ""
+
+author:
+  name: Tanvir Bhupal
+
+markdown: kramdown
+permalink: pretty
+
+exclude:
+  - README.md
