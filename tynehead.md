@@ -7,7 +7,7 @@ permalink: /tynehead/
 
 <article class="area-page">
 
-<header class="area-hero">
+<section class="area-hero">
   <p class="eyebrow">TYNEHEAD, SURREY</p>
 
   <h1>Living in Tynehead, Surrey</h1>
@@ -21,7 +21,7 @@ permalink: /tynehead/
   <p>
     <a class="button primary" href="tel:+16048977826">Talk through a Tynehead property</a>
   </p>
-</header>
+</section>
 
 
 <section class="quick-answer" aria-labelledby="tynehead-quick-answer">
@@ -89,7 +89,7 @@ permalink: /tynehead/
   <h2>What's being planned around the property is worth checking</h2>
 
   <p>
-    The City of Surrey has been updating the Anniedale Tynehead Neighbourhood Concept Plan. Stage 1 of that update was endorsed in 2024, a Stage 1 update was adopted in April 2026, and Stage 2 is now underway.”
+    The City of Surrey has been updating the Anniedale Tynehead Neighbourhood Concept Plan. Stage 1 of that update was endorsed in 2024, Stage 2 is underway, and the City endorsed further land use updates in 2026.
   </p>
 
   <p>
