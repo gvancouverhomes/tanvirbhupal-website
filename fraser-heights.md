@@ -25,6 +25,14 @@ permalink: /fraser-heights/
     box-sizing: border-box;
   }
 
+  .fh-hero {
+    position: static;
+    background: transparent;
+    color: inherit;
+    width: auto;
+    z-index: auto;
+  }
+
   .fh-page h1,
   .fh-page h2,
   .fh-page h3 {
@@ -220,7 +228,7 @@ permalink: /fraser-heights/
 
 <article class="fh-page" itemscope itemtype="https://schema.org/WebPage">
 
-<header>
+<div class="fh-hero">
   <h1 itemprop="name">Living in Fraser Heights, Surrey: What Buyers Should Know</h1>
 
   <div class="fh-intro" itemprop="description">
@@ -230,7 +238,7 @@ permalink: /fraser-heights/
   <div class="fh-answer">
     <p><strong>Short answer:</strong> if you want a quieter, more established neighbourhood, detached housing, and you're comfortable driving for most errands, Fraser Heights is worth serious consideration. If you want to walk to shops and transit, it's probably not your neighbourhood.</p>
   </div>
-</header>
+</div>
 
 <section>
   <h2>Fraser Heights is not one thing</h2>
