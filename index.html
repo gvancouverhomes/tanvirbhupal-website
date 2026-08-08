@@ -1,81 +1,269 @@
 ---
 layout: default
-title: Real Estate Advisor
-description: Practical real estate guidance for buyers, sellers, and families moving to Fleetwood, Tynehead, and Fraser Heights.
+title: Real Estate Advisor in Fleetwood, Tynehead & Fraser Heights
+description: Practical local real estate guidance for buyers, sellers, and families moving in Fleetwood, Tynehead, and Fraser Heights, Surrey.
 permalink: /
 ---
 
-<section>
-  <p>Fleetwood · Tynehead · Fraser Heights</p>
+<div class="home-page">
+  <section class="home-hero" aria-labelledby="home-title">
+    <div class="home-shell home-hero__grid">
+      <div class="home-hero__content">
+        <p class="home-eyebrow">Fleetwood <span aria-hidden="true">•</span> Tynehead <span aria-hidden="true">•</span> Fraser Heights</p>
+        <h1 id="home-title">Clear local guidance for your next move in Surrey.</h1>
+        <p class="home-lead">
+          Understand what it is actually like to buy, sell, move, and live in Fleetwood, Tynehead, and Fraser Heights, with practical guidance from local real estate advisor Tanvir Bhupal.
+        </p>
+        <div class="home-actions">
+          <a class="button button--primary" href="#contact">Talk through your move</a>
+          <a class="text-link" href="#areas">Explore the neighbourhoods</a>
+        </div>
+      </div>
 
-  <h1>Understand the home, the neighbourhood, and the trade-offs before you move.</h1>
+      <figure class="home-hero__media">
+        <img
+          src="{{ '/assets/images/fleetwood-homepage-hero.jpg' | relative_url }}"
+          alt="A residential view in Fleetwood, Surrey"
+          width="1200"
+          height="900"
+          loading="eager"
+          fetchpriority="high"
+        >
+      </figure>
+    </div>
+  </section>
 
-  <p>
-    Practical, local real estate guidance for families buying, selling, or coordinating a move in Surrey.
-  </p>
+  <section class="home-section" aria-labelledby="help-title">
+    <div class="home-shell">
+      <div class="home-section-heading">
+        <p class="home-eyebrow">Where to start</p>
+        <h2 id="help-title">What can I help you figure out?</h2>
+        <p>A move usually involves more than one decision. Start with the part that matters most right now.</p>
+      </div>
 
-  <a href="#contact">Talk through your move</a>
-</section>
+      <div class="home-path-grid">
+        <article class="home-path-card">
+          <h3>Buying a home</h3>
+          <p>Understand the neighbourhood, the property, the trade-offs, and what deserves a closer look before you make a decision.</p>
+          <a class="text-link" href="{{ '/buying/' | relative_url }}">Explore buying guidance</a>
+        </article>
 
-<section id="buying">
-  <h2>Buying with a clearer picture</h2>
+        <article class="home-path-card">
+          <h3>Coordinating a move</h3>
+          <p>If you are selling one home and buying another, timing, financing, possession dates, and family logistics need to work together.</p>
+          <a class="text-link" href="{{ '/coordinating-a-move/' | relative_url }}">See how I coordinate a move</a>
+        </article>
 
-  <p>
-    Compare neighbourhoods, streets, home types, schools, future development, and the realities that may not be obvious from a listing.
-  </p>
+        <article class="home-path-card">
+          <h3>Selling a home</h3>
+          <p>Build the sale around your goals, your timing, and what needs to happen next, rather than treating the listing as an isolated transaction.</p>
+          <a class="text-link" href="{{ '/selling/' | relative_url }}">Explore selling guidance</a>
+        </article>
+      </div>
+    </div>
+  </section>
 
-  <a href="{{ '/buying/' | relative_url }}">Explore buying guidance</a>
-</section>
+  <section id="areas" class="home-section home-section--soft" aria-labelledby="areas-title">
+    <div class="home-shell">
+      <div class="home-section-heading">
+        <p class="home-eyebrow">Local guidance</p>
+        <h2 id="areas-title">Start with the neighbourhood</h2>
+        <p>The right home can feel very different depending on where it sits. Street exposure, schools, parks, transportation, shopping, development, and the surrounding housing can all affect everyday life.</p>
+      </div>
 
-<section id="coordinating">
-  <h2>Coordinating a sale and purchase</h2>
+      <div class="home-area-grid">
+        <article class="home-area-card">
+          <div class="home-area-card__body">
+            <p class="home-card-kicker">Surrey, BC</p>
+            <h3>Fleetwood</h3>
+            <p>Fleetwood combines established neighbourhoods, newer housing, parks, schools, shopping, and significant change around the Surrey Langley SkyTrain corridor.</p>
+            <a class="text-link" href="{{ '/areas/fleetwood/' | relative_url }}">Explore living in Fleetwood</a>
+          </div>
+        </article>
 
-  <p>
-    Plan the sale of your current home and the purchase of the next one as a connected strategy.
-  </p>
-</section>
+        <article class="home-area-card">
+          <div class="home-area-card__body">
+            <p class="home-card-kicker">Surrey, BC</p>
+            <h3>Tynehead</h3>
+            <p>Tynehead is known for greenery, larger properties, and privacy, but the experience can vary considerably depending on the road, lot, surrounding land, and the home itself.</p>
+            <a class="text-link" href="{{ '/tynehead/' | relative_url }}">Explore living in Tynehead</a>
+          </div>
+        </article>
 
-<section id="selling">
-  <h2>Selling with the next decision in mind</h2>
+        <article class="home-area-card">
+          <div class="home-area-card__body">
+            <p class="home-card-kicker">Surrey, BC</p>
+            <h3>Fraser Heights</h3>
+            <p>Fraser Heights offers a quieter, more established residential setting with detached housing, parks, schools, convenient highway access, and a more car-oriented lifestyle.</p>
+            <a class="text-link" href="{{ '/fraser-heights/' | relative_url }}">Explore living in Fraser Heights</a>
+          </div>
+        </article>
+      </div>
+    </div>
+  </section>
 
-  <p>
-    Make thoughtful decisions about preparation, pricing, timing, offers, and risk.
-  </p>
-</section>
+  <section id="articles" class="home-section home-library" aria-labelledby="library-title">
+    <div class="home-shell">
+      <div class="home-section-heading home-section-heading--wide">
+        <p class="home-eyebrow">The local knowledge library</p>
+        <h2 id="library-title">Understand the area before you make the decision</h2>
+        <p>Some questions deserve more than a quick answer. I have built a growing local library around the decisions buyers and families actually face here, including transportation, development, schools, streets, housing types, parks, and the trade-offs that can change how a property works over time.</p>
+      </div>
 
-<section id="areas">
-  <h2>Local guidance</h2>
+      <div class="home-article-grid">
+        <article class="home-article-card">
+          <p class="home-card-kicker">Neighbourhood fit</p>
+          <h3><a href="{{ '/articles/is-fleetwood-surrey-the-right-choice-for-your-family/' | relative_url }}">Is Fleetwood Surrey the Right Choice for Your Family?</a></h3>
+          <p>A practical way to decide whether Fleetwood fits your family, lifestyle, housing priorities, commute, and expectations for the years ahead.</p>
+          <a class="text-link" href="{{ '/articles/is-fleetwood-surrey-the-right-choice-for-your-family/' | relative_url }}">Read the family-fit guide</a>
+        </article>
 
-  <p>
-    <a href="{{ '/areas/fleetwood/' | relative_url }}">
-      Fleetwood
-    </a>
-  </p>
+        <article class="home-article-card">
+          <p class="home-card-kicker">Growth and planning</p>
+          <h3><a href="{{ '/articles/an-honest-look-at-the-fleetwood-plan-and-near-term-change/' | relative_url }}">An Honest Look at the Fleetwood Plan and Near-Term Change</a></h3>
+          <p>What buyers and homeowners should separate when thinking about SkyTrain, planning, redevelopment, construction, and the pace of neighbourhood change.</p>
+          <a class="text-link" href="{{ '/articles/an-honest-look-at-the-fleetwood-plan-and-near-term-change/' | relative_url }}">Read about Fleetwood's near-term change</a>
+        </article>
 
-  <p>Tynehead</p>
-  <p>Fraser Heights</p>
-</section>
+        <article class="home-article-card">
+          <p class="home-card-kicker">Property due diligence</p>
+          <h3><a href="{{ '/articles/the-overpriced-renovated-home-trap-in-mature-fleetwood-pockets/' | relative_url }}">The Overpriced Renovated Home Trap in Mature Fleetwood Pockets</a></h3>
+          <p>Why finishes alone do not determine value, and what to look at underneath the renovation before paying a premium for an established Fleetwood home.</p>
+          <a class="text-link" href="{{ '/articles/the-overpriced-renovated-home-trap-in-mature-fleetwood-pockets/' | relative_url }}">Read the renovated-home guide</a>
+        </article>
+      </div>
 
-<section id="articles">
-  <h2>Explore the local knowledge library</h2>
+      <div class="home-library__footer">
+        <a class="button button--secondary" href="{{ '/areas/fleetwood/#explore-fleetwood' | relative_url }}">Explore the Fleetwood knowledge library</a>
+      </div>
+    </div>
+  </section>
 
-  <p>
-    Practical answers about neighbourhoods, schools, homes, transportation, development, and everyday life.
-  </p>
-</section>
+  <section class="home-section home-philosophy" aria-labelledby="philosophy-title">
+    <div class="home-shell home-split">
+      <div>
+        <p class="home-eyebrow">How I advise</p>
+        <h2 id="philosophy-title">Good advice is sometimes knowing when not to proceed.</h2>
+      </div>
+      <div class="home-split__copy">
+        <p>A home can look right at first and still create problems later.</p>
+        <p>The location may add more driving than expected. The layout may not work as your family changes. A renovation may look impressive while hiding compromises around storage, parking, privacy, or maintenance. The numbers may work on paper while leaving less breathing room than you want.</p>
+        <p>My job is to help you look past the first impression and think through the decision clearly, even when that means slowing down, reconsidering, or choosing a different direction.</p>
+        <a class="text-link" href="{{ '/about/' | relative_url }}">How I work</a>
+      </div>
+    </div>
+  </section>
 
-<section id="about">
-  <h2>Advice before salesmanship</h2>
+  <section class="home-section home-section--soft" aria-labelledby="framework-title">
+    <div class="home-shell">
+      <div class="home-section-heading">
+        <p class="home-eyebrow">A practical framework</p>
+        <h2 id="framework-title">What should you look at before buying here?</h2>
+      </div>
 
-  <p>
-    Tanvir Bhupal is a real estate advisor helping families make grounded property decisions in Fleetwood, Tynehead, and Fraser Heights.
-  </p>
-</section>
+      <div class="home-decision-grid">
+        <article class="home-decision-card">
+          <span class="home-decision-card__number" aria-hidden="true">01</span>
+          <h3>The location</h3>
+          <p>Look beyond the neighbourhood name. Consider the street, traffic, transportation, nearby development, schools, parks, errands, and how the location will shape your daily routine.</p>
+        </article>
 
-<section id="contact">
-  <h2>Talk through your move</h2>
+        <article class="home-decision-card">
+          <span class="home-decision-card__number" aria-hidden="true">02</span>
+          <h3>The property</h3>
+          <p>Think about the lot, layout, condition, renovations, parking, privacy, outdoor space, and whether the home will continue to work as your needs change.</p>
+        </article>
 
-  <p>
-    Start with a relaxed conversation about where you are, what you are considering, and what needs to be figured out.
-  </p>
-</section>
+        <article class="home-decision-card">
+          <span class="home-decision-card__number" aria-hidden="true">03</span>
+          <h3>The numbers</h3>
+          <p>The purchase price is only part of the decision. Carrying costs, future repairs, renovations, transaction costs, and financial flexibility all matter.</p>
+        </article>
+
+        <article class="home-decision-card">
+          <span class="home-decision-card__number" aria-hidden="true">04</span>
+          <h3>What comes next</h3>
+          <p>A good home should make sense for more than the moment you buy it. Think about how it may fit your family, work, finances, and plans over the next several years.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section id="coordinating" class="home-section home-feature" aria-labelledby="coordinating-title">
+    <div class="home-shell home-feature__grid">
+      <div>
+        <p class="home-eyebrow">One connected plan</p>
+        <h2 id="coordinating-title">Buying and selling at the same time changes the conversation.</h2>
+      </div>
+      <div class="home-feature__copy">
+        <p>When one move depends on another, the decisions become connected.</p>
+        <p>Sale timing, financing, possession dates, offer conditions, temporary accommodation, and moving logistics can all affect what is realistic and how much risk you are taking on.</p>
+        <p>The goal is to create a plan where the pieces work together before you are under pressure to make decisions quickly.</p>
+        <a class="button button--primary" href="{{ '/coordinating-a-move/' | relative_url }}">See how I coordinate a move</a>
+      </div>
+    </div>
+  </section>
+
+  <section id="about" class="home-section home-about" aria-labelledby="about-title">
+    <div class="home-shell home-split">
+      <div>
+        <p class="home-eyebrow">Tanvir Bhupal</p>
+        <h2 id="about-title">Local perspective. Practical advice.</h2>
+      </div>
+      <div class="home-split__copy">
+        <p>I'm Tanvir Bhupal, a REALTOR® focused on Fleetwood, Tynehead, and Fraser Heights.</p>
+        <p>I help buyers, sellers, and families think through real estate decisions with a clear understanding of the local area and the practical trade-offs behind a move.</p>
+        <p>The first conversation is usually simple. We talk about where you are now, what you are trying to accomplish, what concerns you, and what may need to happen next.</p>
+        <a class="text-link" href="{{ '/about/' | relative_url }}">About Tanvir</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="home-section home-section--soft" aria-labelledby="faq-title">
+    <div class="home-shell home-shell--narrow">
+      <div class="home-section-heading">
+        <p class="home-eyebrow">Common questions</p>
+        <h2 id="faq-title">A few useful answers before we talk</h2>
+      </div>
+
+      <div class="home-faq">
+        <details>
+          <summary>Which areas does Tanvir Bhupal focus on?</summary>
+          <p>My local work is centred on Fleetwood, Tynehead, and Fraser Heights in Surrey, British Columbia. I also help clients with moves involving other parts of Greater Vancouver when the situation makes sense.</p>
+        </details>
+
+        <details>
+          <summary>Can you help if I need to sell before buying?</summary>
+          <p>Yes. When a purchase depends on a sale, the timing, financing, possession dates, offer terms, and moving logistics should be planned together rather than handled as separate transactions.</p>
+        </details>
+
+        <details>
+          <summary>Do you work with people relocating to Surrey?</summary>
+          <p>Yes. I help buyers and families understand the differences between neighbourhoods, housing types, transportation, schools, daily routines, and other practical considerations before they decide where to focus.</p>
+        </details>
+
+        <details>
+          <summary>Where can I learn more about living in Fleetwood?</summary>
+          <p>The Fleetwood section of this site includes detailed local guides covering housing, transportation, development, schools, parks, streets, and other issues buyers often want to understand before making a decision.</p>
+        </details>
+
+        <details>
+          <summary>What happens in the first conversation?</summary>
+          <p>Usually, we simply talk through your situation. You do not need to have everything figured out. The goal is to understand what you are trying to accomplish, what may complicate the move, and what the sensible next step might be.</p>
+        </details>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact" class="home-final-cta" aria-labelledby="contact-title">
+    <div class="home-shell home-shell--narrow">
+      <p class="home-eyebrow home-eyebrow--light">Start with a conversation</p>
+      <h2 id="contact-title">You don't need to have everything figured out before we talk.</h2>
+      <p>Most first conversations are simply about where you are now, what you are trying to accomplish, and what may need to happen next. We can talk through the options before you make any commitments.</p>
+      <div class="home-actions">
+        <a class="button button--light" href="tel:+16048977826">Talk through your move</a>
+        <a class="home-phone" href="tel:+16048977826">604-897-7826</a>
+      </div>
+    </div>
+  </section>
+</div>
