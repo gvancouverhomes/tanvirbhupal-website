@@ -4,48 +4,74 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>
-    {% if page.title %}
-      {{ page.title }} | {{ site.title }}
-    {% else %}
-      {{ site.title }}
-    {% endif %}
-  </title>
+  <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 
-  <meta
-    name="description"
-    content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}"
-  >
-
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   <link rel="stylesheet" href="{{ '/styles.css' | relative_url }}">
 </head>
-
 <body>
-  <header>
-    <div class="header-inner">
-      <a href="{{ '/' | relative_url }}">Tanvir Bhupal</a>
+  <a class="skip-link" href="#main-content">Skip to content</a>
 
-      <nav>
-        <a href="{{ '/' | relative_url }}#buying">Buying</a>
-        <a href="{{ '/' | relative_url }}#coordinating">Coordinating a Move</a>
-        <a href="{{ '/' | relative_url }}#selling">Selling</a>
-        <a href="{{ '/' | relative_url }}#areas">Areas</a>
-        <a href="{{ '/' | relative_url }}#articles">Articles</a>
-        <a href="{{ '/' | relative_url }}#about">About</a>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="site-brand" href="{{ '/' | relative_url }}" aria-label="Tanvir Bhupal home">Tanvir Bhupal</a>
+
+      <nav class="desktop-nav" aria-label="Primary navigation">
+        <a href="{{ '/buying/' | relative_url }}">Buying</a>
+        <a href="{{ '/coordinating-a-move/' | relative_url }}">Coordinating a Move</a>
+        <a href="{{ '/selling/' | relative_url }}">Selling</a>
+        <a href="{{ '/#areas' | relative_url }}">Areas</a>
+        <a href="{{ '/#articles' | relative_url }}">Articles</a>
+        <a href="{{ '/about/' | relative_url }}">About</a>
       </nav>
 
-      <a href="{{ '/' | relative_url }}#contact">Talk through your move</a>
+      <a class="header-cta button button--primary" href="{{ '/#contact' | relative_url }}">Talk through your move</a>
+
+      <details class="mobile-menu">
+        <summary aria-label="Open navigation">Menu</summary>
+        <nav class="mobile-menu__panel" aria-label="Mobile navigation">
+          <a href="{{ '/buying/' | relative_url }}">Buying</a>
+          <a href="{{ '/coordinating-a-move/' | relative_url }}">Coordinating a Move</a>
+          <a href="{{ '/selling/' | relative_url }}">Selling</a>
+          <a href="{{ '/#areas' | relative_url }}">Areas</a>
+          <a href="{{ '/#articles' | relative_url }}">Articles</a>
+          <a href="{{ '/about/' | relative_url }}">About</a>
+          <a href="{{ '/#contact' | relative_url }}">Talk through your move</a>
+        </nav>
+      </details>
     </div>
   </header>
 
-  <main>
+  <main id="main-content">
     {{ content }}
   </main>
 
-  <footer>
-    <p>Tanvir Bhupal, Real Estate Advisor</p>
-    <p>eXp Realty</p>
-    <p>Not intended to solicit clients currently under contract.</p>
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div>
+        <p class="footer-brand">Tanvir Bhupal</p>
+        <p>REALTOR®</p>
+        <p>eXp Realty of Canada</p>
+      </div>
+      <div>
+        <p><a href="{{ '/areas/fleetwood/' | relative_url }}">Fleetwood</a></p>
+        <p><a href="{{ '/tynehead/' | relative_url }}">Tynehead</a></p>
+        <p><a href="{{ '/fraser-heights/' | relative_url }}">Fraser Heights</a></p>
+      </div>
+      <div>
+        <p><a href="{{ '/buying/' | relative_url }}">Buying</a></p>
+        <p><a href="{{ '/coordinating-a-move/' | relative_url }}">Coordinating a Move</a></p>
+        <p><a href="{{ '/selling/' | relative_url }}">Selling</a></p>
+        <p><a href="{{ '/about/' | relative_url }}">About</a></p>
+      </div>
+      <div>
+        <p><a href="tel:+16048977826">604-897-7826</a></p>
+        <p>Surrey, British Columbia</p>
+      </div>
+    </div>
+    <div class="footer-legal">
+      <p>Not intended to solicit clients currently under contract.</p>
+    </div>
   </footer>
 </body>
 </html>
