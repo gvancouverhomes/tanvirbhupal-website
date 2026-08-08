@@ -6,15 +6,27 @@
 
   <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 
-  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta
+    name="description"
+    content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}"
+  >
+
   <link rel="stylesheet" href="{{ '/styles.css' | relative_url }}">
 </head>
+
 <body>
   <a class="skip-link" href="#main-content">Skip to content</a>
 
   <header class="site-header">
     <div class="header-inner">
-      <a class="site-brand" href="{{ '/' | relative_url }}" aria-label="Tanvir Bhupal home">Tanvir Bhupal</a>
+
+      <a
+        class="site-brand"
+        href="{{ '/' | relative_url }}"
+        aria-label="Tanvir Bhupal home"
+      >
+        Tanvir Bhupal
+      </a>
 
       <nav class="desktop-nav" aria-label="Primary navigation">
         <a href="{{ '/buying/' | relative_url }}">Buying</a>
@@ -25,10 +37,20 @@
         <a href="{{ '/about/' | relative_url }}">About</a>
       </nav>
 
-      <a class="header-cta button button--primary" href="{{ '/#contact' | relative_url }}">Talk through your move</a>
+      <a
+        class="header-cta"
+        href="{{ '/#contact' | relative_url }}"
+      >
+        Talk through your move
+      </a>
 
       <details class="mobile-menu">
-        <summary aria-label="Open navigation">Menu</summary>
+        <summary class="mobile-menu__toggle" aria-label="Open navigation">
+          <span></span>
+          <span></span>
+          <span></span>
+        </summary>
+
         <nav class="mobile-menu__panel" aria-label="Mobile navigation">
           <a href="{{ '/buying/' | relative_url }}">Buying</a>
           <a href="{{ '/coordinating-a-move/' | relative_url }}">Coordinating a Move</a>
@@ -36,9 +58,16 @@
           <a href="{{ '/#areas' | relative_url }}">Areas</a>
           <a href="{{ '/#articles' | relative_url }}">Articles</a>
           <a href="{{ '/about/' | relative_url }}">About</a>
-          <a href="{{ '/#contact' | relative_url }}">Talk through your move</a>
+
+          <a
+            class="mobile-menu__cta"
+            href="{{ '/#contact' | relative_url }}"
+          >
+            Talk through your move
+          </a>
         </nav>
       </details>
+
     </div>
   </header>
 
@@ -48,29 +77,64 @@
 
   <footer class="site-footer">
     <div class="footer-inner">
-      <div>
-        <p class="footer-brand">Tanvir Bhupal</p>
-        <p>REALTOR®</p>
-        <p>eXp Realty of Canada</p>
+
+      <div class="footer-intro">
+        <a
+          class="footer-brand"
+          href="{{ '/' | relative_url }}"
+        >
+          Tanvir Bhupal
+        </a>
+
+        <p>REALTOR® with eXp Realty of Canada</p>
+        <p>
+          Local real estate guidance for Fleetwood, Tynehead, Fraser Heights,
+          and moves throughout Greater Vancouver.
+        </p>
       </div>
-      <div>
-        <p><a href="{{ '/areas/fleetwood/' | relative_url }}">Fleetwood</a></p>
-        <p><a href="{{ '/tynehead/' | relative_url }}">Tynehead</a></p>
-        <p><a href="{{ '/fraser-heights/' | relative_url }}">Fraser Heights</a></p>
+
+      <div class="footer-column">
+        <p class="footer-heading">Neighbourhoods</p>
+
+        <a href="{{ '/areas/fleetwood/' | relative_url }}">Fleetwood</a>
+        <a href="{{ '/tynehead/' | relative_url }}">Tynehead</a>
+        <a href="{{ '/fraser-heights/' | relative_url }}">Fraser Heights</a>
       </div>
-      <div>
-        <p><a href="{{ '/buying/' | relative_url }}">Buying</a></p>
-        <p><a href="{{ '/coordinating-a-move/' | relative_url }}">Coordinating a Move</a></p>
-        <p><a href="{{ '/selling/' | relative_url }}">Selling</a></p>
-        <p><a href="{{ '/about/' | relative_url }}">About</a></p>
+
+      <div class="footer-column">
+        <p class="footer-heading">Guidance</p>
+
+        <a href="{{ '/buying/' | relative_url }}">Buying</a>
+        <a href="{{ '/coordinating-a-move/' | relative_url }}">Coordinating a Move</a>
+        <a href="{{ '/selling/' | relative_url }}">Selling</a>
+        <a href="{{ '/#articles' | relative_url }}">Articles</a>
+        <a href="{{ '/about/' | relative_url }}">About</a>
       </div>
-      <div>
-        <p><a href="tel:+16048977826">604-897-7826</a></p>
+
+      <div class="footer-column footer-contact">
+        <p class="footer-heading">Start a conversation</p>
+
+        <a href="tel:+16048977826">604-897-7826</a>
         <p>Surrey, British Columbia</p>
+
+        <a
+          class="footer-cta"
+          href="{{ '/#contact' | relative_url }}"
+        >
+          Talk through your move
+        </a>
       </div>
+
     </div>
-    <div class="footer-legal">
-      <p>Not intended to solicit clients currently under contract.</p>
+
+    <div class="footer-bottom">
+      <p>
+        © {{ 'now' | date: '%Y' }} Tanvir Bhupal. eXp Realty of Canada.
+      </p>
+
+      <p>
+        Not intended to solicit clients currently under contract.
+      </p>
     </div>
   </footer>
 </body>
