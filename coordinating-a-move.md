@@ -215,7 +215,7 @@ permalink: /coordinating-a-move/
   </p>
 
   <p>
-    My advice might be to sell first, buy first, get both sides ready and wait, or change direction completely.
+    Sometimes the most sensible strategy is not to choose an order yet. We can prepare both sides, keep the options open, and move when one path becomes clearer.
   </p>
 
   <p>
@@ -229,7 +229,7 @@ permalink: /coordinating-a-move/
 <h2>Talk through your move</h2>
 
   <p>
-    You don't need the whole sequence figured out before we talk.
+    If the timing still feels tangled, that's exactly what we can work through together.
   </p>
 
   <p>
