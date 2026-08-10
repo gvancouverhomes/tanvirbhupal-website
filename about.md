@@ -112,7 +112,7 @@ permalink: /about/
 
       <p>Maybe you're early in the process. Comparing neighbourhoods. Working through timing. Not even sure yet whether moving makes sense at all.</p>
 
-      <p>You don't need a finished plan to reach out. We can start with things exactly as they are.</p>
+      <p>It is fine to be early in the process. A conversation can help you decide whether there is even a move worth planning.</p>
     </div>
   </section>
 
@@ -134,7 +134,7 @@ permalink: /about/
     <div class="page-shell page-shell--narrow">
       <h2>Start with a conversation</h2>
 
-      <p>You don't need every detail figured out before you reach out.</p>
+      <p>Come with the part of the decision you're working through right now.</p>
 
       <p>The first conversation is simply a chance to talk about where you are right now, what you're hoping to do, and what might need to happen next.</p>
 
