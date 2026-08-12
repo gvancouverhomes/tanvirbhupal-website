@@ -53,11 +53,16 @@ permalink: /contact/
     <p>Maybe you are comparing neighbourhoods, thinking about buying, wondering whether it is time to sell, or trying to coordinate both sides of a move. We can start with where things are right now.</p>
 
     <div class="button-row">
-      <a class="button button--primary" href="mailto:tanvirbhupal@gmail.com?subject=Book%20a%20conversation">Book a conversation</a>
-      <a class="button button--secondary" href="sms:+16048977826">Text a quick question</a>
+      <a class="button button--primary" href="https://calendar.app.google/T5VU5McB86VmskNk8">Book a Google Meet</a>
+      <a class="button button--secondary" href="https://calendar.app.google/4MM32nxRbfgWoDPs6">Book a phone call</a>
     </div>
 
-    <p class="cta-note">Email <a href="mailto:tanvirbhupal@gmail.com">tanvirbhupal@gmail.com</a> or call <a href="tel:+16048977826">604-897-7826</a>.</p>
+    <p class="cta-note">
+      Prefer something quick?
+      <a href="sms:+16048977826">Text a question</a>,
+      email <a href="mailto:tanvirbhupal@gmail.com">tanvirbhupal@gmail.com</a>,
+      or call <a href="tel:+16048977826">604-897-7826</a>.
+    </p>
   </div>
 </section>
 
@@ -80,10 +85,11 @@ permalink: /contact/
         <p class="eyebrow">A proper conversation</p>
         <h2>Book a time that works</h2>
 
-        <p>If your situation needs more than a quick answer, book a conversation. We can talk face to face, go through the moving pieces, and decide what is worth doing next.</p>
+        <p>If your situation needs more than a quick answer, book a conversation. Choose a Google Meet or a scheduled phone call, and we can go through the moving pieces and decide what is worth doing next.</p>
 
         <div class="button-row">
-          <a class="button button--primary" href="mailto:tanvirbhupal@gmail.com?subject=Book%20a%20conversation">Book a conversation</a>
+          <a class="button button--primary" href="https://calendar.app.google/T5VU5McB86VmskNk8">Book a Google Meet</a>
+          <a class="button button--secondary" href="https://calendar.app.google/4MM32nxRbfgWoDPs6">Book a phone call</a>
         </div>
       </div>
 
@@ -123,11 +129,11 @@ permalink: /contact/
     <p class="eyebrow">Start where you are</p>
     <h2>We can figure out the next step together.</h2>
 
-    <p>Book a conversation if you want to talk it through properly, or send a quick text if that feels easier.</p>
+    <p>Book a Google Meet or phone call if you want to talk it through properly, or send a quick text if that feels easier.</p>
 
     <div class="button-row button-row--center">
-      <a class="button button--primary" href="mailto:tanvirbhupal@gmail.com?subject=Book%20a%20conversation">Book a conversation</a>
-      <a class="button button--secondary" href="sms:+16048977826">Text a quick question</a>
+      <a class="button button--primary" href="https://calendar.app.google/T5VU5McB86VmskNk8">Book a Google Meet</a>
+      <a class="button button--secondary" href="https://calendar.app.google/4MM32nxRbfgWoDPs6">Book a phone call</a>
     </div>
   </div>
 </section>
