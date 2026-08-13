@@ -13,7 +13,7 @@ permalink: /fraser-heights/
 <h1 itemprop="name">Living in Fraser Heights, Surrey: What Buyers Should Know</h1>
 
   <div class="page-intro" itemprop="description">
-    <p>I'm Tanvir Bhupal, a REALTOR with eXp Realty. As a REALTOR, I get this question a lot: is Fraser Heights actually a good fit for my family?</p>
+    <p>I'm  Bhupal, a REALTOR with eXp Realty, I get this question a lot: is Fraser Heights actually a good fit for my family?</p>
   </div>
 
   <div class="key-takeaway">
@@ -80,7 +80,7 @@ permalink: /fraser-heights/
   <div class="page-shell page-shell--narrow">
 <h2>Thinking about buying in Fraser Heights?</h2>
   <p>If you're comparing homes or trying to decide whether Fraser Heights fits your family, we can talk through the streets, houses, trade-offs, and what matters most to you.</p>
-  <a class="button button--primary" href="tel:+16048977826">Talk through your move</a>
+  <a class="button button--primary" href="{{ '/contact/' | relative_url }}">Talk through your move</a>
   </div>
 </section>
 
@@ -165,7 +165,7 @@ permalink: /fraser-heights/
   <div class="page-shell page-shell--narrow">
 <h2>Talk through your move</h2>
   <p>If Fraser Heights is on your list, tell me what you're looking for and how your family actually wants to live. We can work through whether the neighbourhood, and the particular homes you're considering, make sense.</p>
-  <a class="button button--primary" href="tel:+16048977826">Call Tanvir at 604-897-7826</a>
+  <a class="button button--primary" href="{{ '/contact/' | relative_url }}">Talk through your move</a>
   </div>
 </section>
 
@@ -216,7 +216,7 @@ permalink: /fraser-heights/
     <li><a href="{{ '/fleetwood/' | relative_url }}">Living in Fleetwood, Surrey</a></li>
     <li><a href="{{ '/tynehead/' | relative_url }}">Living in Tynehead, Surrey</a></li>
     <li><a href="{{ '/buying/' | relative_url }}">How I help buyers make a clearer home decision</a></li>
-    <li><a href="{{ '/about/' | relative_url }}">About Tanvir Bhupal</a></li>
+    <li><a href="{{ '/about/' | relative_url }}">About  Bhupal</a></li>
   </ul>
   </div>
 </section>
@@ -252,7 +252,7 @@ permalink: /fraser-heights/
       "inLanguage": "en-CA",
       "dateModified": "2026-08-07",
       "author": {
-        "@id": "{{ '/' | absolute_url }}#tanvir-bhupal"
+        "@id": "{{ '/' | absolute_url }}#-bhupal"
       },
       "about": [
         {
@@ -275,8 +275,8 @@ permalink: /fraser-heights/
     },
     {
       "@type": "Person",
-      "@id": "{{ '/' | absolute_url }}#tanvir-bhupal",
-      "name": "Tanvir Bhupal",
+      "@id": "{{ '/' | absolute_url }}#-bhupal",
+      "name": " Bhupal",
       "jobTitle": "REALTOR",
       "telephone": "+1-604-897-7826",
       "worksFor": {
