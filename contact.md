@@ -53,8 +53,8 @@ permalink: /contact/
     <p>Maybe you are comparing neighbourhoods, thinking about buying, wondering whether it is time to sell, or trying to coordinate both sides of a move. We can start with where things are right now.</p>
 
     <div class="button-row">
-      <a class="button button--primary" href="https://calendar.app.google/T5VU5McB86VmskNk8">Book a Google Meet</a>
-      <a class="button button--secondary" href="https://calendar.app.google/4MM32nxRbfgWoDPs6">Book a phone call</a>
+      <a class="button button--primary" href="https://calendar.app.google/T5VU5McB86VmskNk8" target="_blank" rel="noopener noreferrer">Book a Google Meet</a>
+      <a class="button button--secondary" href="https://calendar.app.google/4MM32nxRbfgWoDPs6" target="_blank" rel="noopener noreferrer">Book a phone call</a>
     </div>
 
     <p class="cta-note">
@@ -88,8 +88,8 @@ permalink: /contact/
         <p>If your situation needs more than a quick answer, book a conversation. Choose a Google Meet or a scheduled phone call, and we can go through the moving pieces and decide what is worth doing next.</p>
 
         <div class="button-row">
-          <a class="button button--primary" href="https://calendar.app.google/T5VU5McB86VmskNk8">Book a Google Meet</a>
-          <a class="button button--secondary" href="https://calendar.app.google/4MM32nxRbfgWoDPs6">Book a phone call</a>
+          <a class="button button--primary" href="https://calendar.app.google/T5VU5McB86VmskNk8" target="_blank" rel="noopener noreferrer">Book a Google Meet</a>
+          <a class="button button--secondary" href="https://calendar.app.google/4MM32nxRbfgWoDPs6" target="_blank" rel="noopener noreferrer">Book a phone call</a>
         </div>
       </div>
 
@@ -132,8 +132,8 @@ permalink: /contact/
     <p>Book a Google Meet or phone call if you want to talk it through properly, or send a quick text if that feels easier.</p>
 
     <div class="button-row button-row--center">
-      <a class="button button--primary" href="https://calendar.app.google/T5VU5McB86VmskNk8">Book a Google Meet</a>
-      <a class="button button--secondary" href="https://calendar.app.google/4MM32nxRbfgWoDPs6">Book a phone call</a>
+      <a class="button button--primary" href="https://calendar.app.google/T5VU5McB86VmskNk8" target="_blank" rel="noopener noreferrer">Book a Google Meet</a>
+      <a class="button button--secondary" href="https://calendar.app.google/4MM32nxRbfgWoDPs6" target="_blank" rel="noopener noreferrer">Book a phone call</a>
     </div>
   </div>
 </section>
