@@ -20,7 +20,7 @@ permalink: /coordinating-a-move/
     The goal isn't just to close two deals. It's to create enough clarity and flexibility that your family does not have to make the next decision under unnecessary pressure.
   </p>
 
-  <div class="button-row"><a class="button button--primary" href="#contact">Talk through your move</a></div>
+  <div class="button-row"><a class="button button--primary" href="{{ '/contact/' | relative_url }}">Talk through your move</a></div>
   </div>
 </section>
 
