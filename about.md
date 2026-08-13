@@ -53,7 +53,7 @@ permalink: /about/
       <p>Good advice sometimes means slowing down. Reconsidering. Choosing a different direction than the one you started with.</p>
 
       <div class="button-row">
-        <a class="button button--primary" href="tel:+16048977826">Talk through your move</a>
+        <a class="button button--primary" href="{{ '/contact/' | relative_url }}">Talk through your move</a>
       </div>
     </div>
   </section>
