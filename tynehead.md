@@ -20,7 +20,7 @@ permalink: /tynehead/
   <p><strong>Here's what actually matters if you're considering it.</strong></p>
 
   <p>
-    <a class="button button--primary" href="tel:+16048977826">Talk through a Tynehead property</a>
+    <a class="button button--primary" href="{{ '/contact/' | relative_url }}">Talk through a Tynehead property</a>
   </p>
   </div>
 </section>
