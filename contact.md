@@ -48,61 +48,85 @@ permalink: /contact/
 
     <h1>Start with a conversation.</h1>
 
-    <p class="page-intro">You do not need to have your move figured out before you reach out.</p>
+    <p class="page-intro">Choose the easiest way to reach me.</p>
 
-    <p>Maybe you are comparing neighbourhoods, thinking about buying, wondering whether it is time to sell, or trying to coordinate both sides of a move. We can start with where things are right now.</p>
+    <p>Whether you're comparing neighbourhoods, thinking about buying or selling, or coordinating both sides of a move, choose the option that works best for you.</p>
 
     <div class="button-row">
-      <a class="button button--primary" href="https://calendar.app.google/T5VU5McB86VmskNk8" target="_blank" rel="noopener noreferrer">Book a Google Meet</a>
-      <a class="button button--secondary" href="https://calendar.app.google/4MM32nxRbfgWoDPs6" target="_blank" rel="noopener noreferrer">Book a phone call</a>
-    </div>
+      <a
+        class="button button--primary"
+        href="https://calendar.app.google/T5VU5McB86VmskNk8"
+        target="_blank"
+        rel="noopener noreferrer"
+      >Book a Google Meet</a>
 
-    <p class="cta-note">
-      Prefer something quick?
-      <a href="sms:+16048977826">Text a question</a>,
-      email <a href="mailto:tanvirbhupal@gmail.com">tanvirbhupal@gmail.com</a>,
-      or call <a href="tel:+16048977826">604-897-7826</a>.
-    </p>
+      <a
+        class="button button--secondary"
+        href="https://calendar.app.google/4MM32nxRbfgWoDPs6"
+        target="_blank"
+        rel="noopener noreferrer"
+      >Book a phone call</a>
+    </div>
   </div>
 </section>
 
 <section class="page-section">
   <div class="page-shell page-shell--narrow">
-    <h2>What the first conversation is for</h2>
+    <h2>What to expect</h2>
 
-    <p>The first conversation is not a sales presentation. It is a chance to understand what you are trying to do, what is making the decision difficult, and what needs to be figured out next.</p>
-
-    <p>We might talk about your timing, your current home, the neighbourhoods you are considering, your budget, family logistics, or whether moving makes sense at all right now.</p>
-
-    <p>You can come with a detailed plan, a half-formed idea, or one question you cannot quite get answered. We will start there.</p>
+    <p>The first meeting is simply a chance to understand your situation and work out what makes sense next. There is no presentation to prepare for and no expectation that you have already made a decision.</p>
   </div>
 </section>
 
 <section class="page-section page-section--soft">
   <div class="page-shell">
     <div class="split-grid">
+
       <div>
-        <p class="eyebrow">A proper conversation</p>
+        <p class="eyebrow">Google Meet</p>
         <h2>Book a time that works</h2>
 
-        <p>If your situation needs more than a quick answer, book a conversation. Choose a Google Meet or a scheduled phone call, and we can go through the moving pieces and decide what is worth doing next.</p>
+        <p>Choose a time that works for you and we'll meet on Google Meet.</p>
 
         <div class="button-row">
-          <a class="button button--primary" href="https://calendar.app.google/T5VU5McB86VmskNk8" target="_blank" rel="noopener noreferrer">Book a Google Meet</a>
-          <a class="button button--secondary" href="https://calendar.app.google/4MM32nxRbfgWoDPs6" target="_blank" rel="noopener noreferrer">Book a phone call</a>
+          <a
+            class="button button--primary"
+            href="https://calendar.app.google/T5VU5McB86VmskNk8"
+            target="_blank"
+            rel="noopener noreferrer"
+          >Book a Google Meet</a>
         </div>
       </div>
 
       <div>
-        <p class="eyebrow">Something quick</p>
-        <h2>Text me the question</h2>
+        <p class="eyebrow">Prefer the phone?</p>
+        <h2>Book a phone call</h2>
 
-        <p>If you are not ready for a meeting, that is completely fine. Send me the question that is on your mind and I will point you in the right direction.</p>
+        <p>Choose a time and I'll call you at the number you provide when booking.</p>
 
         <div class="button-row">
-          <a class="button button--secondary" href="sms:+16048977826">Text a quick question</a>
+          <a
+            class="button button--secondary"
+            href="https://calendar.app.google/4MM32nxRbfgWoDPs6"
+            target="_blank"
+            rel="noopener noreferrer"
+          >Book a phone call</a>
         </div>
       </div>
+
+    </div>
+  </div>
+</section>
+
+<section class="page-section">
+  <div class="page-shell page-shell--narrow">
+    <p class="eyebrow">Something quick</p>
+    <h2>Text me the question</h2>
+
+    <p>Have a quick question? Send me a text and I'll point you in the right direction.</p>
+
+    <div class="button-row">
+      <a class="button button--secondary" href="sms:+16048977826">Text a quick question</a>
     </div>
   </div>
 </section>
@@ -120,20 +144,20 @@ permalink: /contact/
       <li>Working out whether now is actually the right time to make a move.</li>
     </ul>
 
-    <p>You do not need to know which service you need before contacting me. The conversation comes first.</p>
+    <p>Not sure which category your situation fits? That's fine. Just choose the contact option that feels easiest.</p>
   </div>
 </section>
 
 <section class="page-section page-section--cta">
   <div class="page-shell page-shell--narrow">
-    <p class="eyebrow">Start where you are</p>
-    <h2>We can figure out the next step together.</h2>
+    <p class="eyebrow">Other ways to reach me</p>
+    <h2>Call or email me directly.</h2>
 
-    <p>Book a Google Meet or phone call if you want to talk it through properly, or send a quick text if that feels easier.</p>
+    <p>If you'd rather reach out directly, call or email me.</p>
 
     <div class="button-row button-row--center">
-      <a class="button button--primary" href="https://calendar.app.google/T5VU5McB86VmskNk8" target="_blank" rel="noopener noreferrer">Book a Google Meet</a>
-      <a class="button button--secondary" href="https://calendar.app.google/4MM32nxRbfgWoDPs6" target="_blank" rel="noopener noreferrer">Book a phone call</a>
+      <a class="button button--primary" href="tel:+16048977826">Call 604-897-7826</a>
+      <a class="button button--secondary" href="mailto:tanvirbhupal@gmail.com">Email Tanvir</a>
     </div>
   </div>
 </section>
