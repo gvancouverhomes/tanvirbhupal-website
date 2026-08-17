@@ -1,3 +1,4 @@
+```html
 ---
 layout: default
 title: "Living in Fraser Heights, Surrey: What Buyers Should Know"
@@ -13,7 +14,7 @@ permalink: /fraser-heights/
 <h1 itemprop="name">Living in Fraser Heights, Surrey: What Buyers Should Know</h1>
 
   <div class="page-intro" itemprop="description">
-    <p>I'm  Bhupal, a REALTOR with eXp Realty, I get this question a lot: is Fraser Heights actually a good fit for my family?</p>
+    <p>I'm Tanvir Bhupal, a REALTOR with eXp Realty, I get this question a lot: is Fraser Heights actually a good fit for my family?</p>
   </div>
 
   <div class="key-takeaway">
@@ -124,7 +125,7 @@ permalink: /fraser-heights/
   <div class="page-shell page-shell--narrow">
 <h2>Who might be happier elsewhere</h2>
 
-  <p>If you want to walk to most things, be near rapid transit, or want more restaurants and shops close by, look at <a href="{{ '/fleetwood/' | relative_url }}">Fleetwood</a> too. If buying here means stretching your budget just for the neighbourhood name, compare what the same money buys elsewhere. A better house in a different neighbourhood can be the smarter move.</p>
+  <p>If you want to walk to most things, be near rapid transit, or want more restaurants and shops close by, look at <a href="{{ '/areas/fleetwood/' | relative_url }}">Fleetwood</a> too. If buying here means stretching your budget just for the neighbourhood name, compare what the same money buys elsewhere. A better house in a different neighbourhood can be the smarter move.</p>
   </div>
 </section>
 
@@ -141,7 +142,7 @@ permalink: /fraser-heights/
     </div>
 
     <div>
-      <strong><a href="{{ '/fleetwood/' | relative_url }}">Fleetwood</a></strong>
+      <strong><a href="{{ '/areas/fleetwood/' | relative_url }}">Fleetwood</a></strong>
       <p>More housing variety, shopping and services, with major transit-related change underway.</p>
     </div>
 
@@ -213,10 +214,10 @@ permalink: /fraser-heights/
   <div class="page-shell page-shell--narrow">
 <h2>Keep exploring Surrey neighbourhoods</h2>
   <ul>
-    <li><a href="{{ '/fleetwood/' | relative_url }}">Living in Fleetwood, Surrey</a></li>
+    <li><a href="{{ '/areas/fleetwood/' | relative_url }}">Living in Fleetwood, Surrey</a></li>
     <li><a href="{{ '/tynehead/' | relative_url }}">Living in Tynehead, Surrey</a></li>
     <li><a href="{{ '/buying/' | relative_url }}">How I help buyers make a clearer home decision</a></li>
-    <li><a href="{{ '/about/' | relative_url }}">About  Bhupal</a></li>
+    <li><a href="{{ '/about/' | relative_url }}">About Tanvir</a></li>
   </ul>
   </div>
 </section>
@@ -252,7 +253,7 @@ permalink: /fraser-heights/
       "inLanguage": "en-CA",
       "dateModified": "2026-08-07",
       "author": {
-        "@id": "{{ '/' | absolute_url }}#-bhupal"
+        "@id": "{{ '/' | absolute_url }}#tanvir-bhupal"
       },
       "about": [
         {
@@ -275,8 +276,8 @@ permalink: /fraser-heights/
     },
     {
       "@type": "Person",
-      "@id": "{{ '/' | absolute_url }}#-bhupal",
-      "name": " Bhupal",
+      "@id": "{{ '/' | absolute_url }}#tanvir-bhupal",
+      "name": "Tanvir Bhupal",
       "jobTitle": "REALTOR",
       "telephone": "+1-604-897-7826",
       "worksFor": {
@@ -355,3 +356,4 @@ permalink: /fraser-heights/
   ]
 }
 </script>
+```
