@@ -19,7 +19,7 @@ last_modified_at: 2026-08-02
     <p class="page-intro">Fleetwood can offer families space, established neighbourhoods, schools, parks, everyday convenience, and improving transit connections. But it is not one uniform neighbourhood.</p>
     <p>A quiet interior street can feel completely different from a home only a few blocks away near a major corridor. The housing, school catchment, parking, access, redevelopment around you, and the way the property functions can all change whether a home truly works for your family.</p>
     <div class="button-row">
-      <a class="button button--primary" href="/contact/">Talk through Fleetwood</a>
+      <a class="button button--primary" href="{{ '/contact/' | relative_url }}">Talk through Fleetwood</a>
       <a class="text-link" href="#understanding-fleetwood">Explore the guide</a>
     </div>
   </div>
@@ -277,11 +277,9 @@ last_modified_at: 2026-08-02
     <h2 id="fleetwood-cta">Talk through where in Fleetwood your family may fit best</h2>
     <p>You may be deciding whether Fleetwood is right at all, narrowing a few streets, or comparing a particular home. We can look at the location, property, trade-offs, and what the decision needs to support next.</p>
     <div class="button-row button-row--center">
-      <a class="button button--primary" href="/contact/">Talk through Fleetwood</a>
+      <a class="button button--primary" href="{{ '/contact/' | relative_url }}">Talk through Fleetwood</a>
       <a class="button button--secondary" href="tel:+16048977826">Call Tanvir</a>
-    </div>
-    <p class="cta-note">Replace the phone placeholder above with the same site-wide phone number used in the header.</p>
-  </div>
+
 </section>
 
 <section class="page-section page-section--sources" aria-labelledby="fleetwood-sources">
