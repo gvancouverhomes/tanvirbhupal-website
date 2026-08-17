@@ -1,10 +1,10 @@
 ---
-
 layout: default
 title: "Living in Fraser Heights, Surrey: What Buyers Should Know"
 description: "A practical guide to living in Fraser Heights, Surrey. Learn about homes, schools, parks, Highway 1 noise, transportation, neighbourhood pockets, and what buyers should check before purchasing."
 permalink: /fraser-heights/
----------------------------
+---
+
 
 <article itemscope itemtype="https://schema.org/WebPage">
 
@@ -13,7 +13,7 @@ permalink: /fraser-heights/
 <h1 itemprop="name">Living in Fraser Heights, Surrey: What Buyers Should Know</h1>
 
   <div class="page-intro" itemprop="description">
-    <p>I'm Tanvir Bhupal, a REALTOR with eXp Realty, I get this question a lot: is Fraser Heights actually a good fit for my family?</p>
+    <p>I'm  Bhupal, a REALTOR with eXp Realty, I get this question a lot: is Fraser Heights actually a good fit for my family?</p>
   </div>
 
   <div class="key-takeaway">
@@ -124,7 +124,7 @@ permalink: /fraser-heights/
   <div class="page-shell page-shell--narrow">
 <h2>Who might be happier elsewhere</h2>
 
-  <p>If you want to walk to most things, be near rapid transit, or want more restaurants and shops close by, look at <a href="{{ '/areas/fleetwood/' | relative_url }}">Fleetwood</a> too. If buying here means stretching your budget just for the neighbourhood name, compare what the same money buys elsewhere. A better house in a different neighbourhood can be the smarter move.</p>
+  <p>If you want to walk to most things, be near rapid transit, or want more restaurants and shops close by, look at <a href="{{ '/fleetwood/' | relative_url }}">Fleetwood</a> too. If buying here means stretching your budget just for the neighbourhood name, compare what the same money buys elsewhere. A better house in a different neighbourhood can be the smarter move.</p>
   </div>
 </section>
 
@@ -140,18 +140,15 @@ permalink: /fraser-heights/
       <p>Quieter, established, residential, and generally more car-dependent.</p>
     </div>
 
-```
-<div>
-  <strong><a href="{{ '/areas/fleetwood/' | relative_url }}">Fleetwood</a></strong>
-  <p>More housing variety, shopping and services, with major transit-related change underway.</p>
-</div>
+    <div>
+      <strong><a href="{{ '/fleetwood/' | relative_url }}">Fleetwood</a></strong>
+      <p>More housing variety, shopping and services, with major transit-related change underway.</p>
+    </div>
 
-<div>
-  <strong><a href="{{ '/tynehead/' | relative_url }}">Tynehead</a></strong>
-  <p>More land and privacy in some pockets, with greater variation from property to property.</p>
-</div>
-```
-
+    <div>
+      <strong><a href="{{ '/tynehead/' | relative_url }}">Tynehead</a></strong>
+      <p>More land and privacy in some pockets, with greater variation from property to property.</p>
+    </div>
   </div>
   </div>
 </section>
@@ -178,37 +175,35 @@ permalink: /fraser-heights/
 
   <div class="fh-faq">
 
-```
-<div class="fh-faq-item">
-  <h3>Is Fraser Heights a good area for families?</h3>
-  <p>It tends to suit families who want a quieter residential setting, detached housing, and access to schools and parks. Whether it's right for you depends on budget, transportation needs, and how much you value walkability versus a quieter setting.</p>
-</div>
+    <div class="fh-faq-item">
+      <h3>Is Fraser Heights a good area for families?</h3>
+      <p>It tends to suit families who want a quieter residential setting, detached housing, and access to schools and parks. Whether it's right for you depends on budget, transportation needs, and how much you value walkability versus a quieter setting.</p>
+    </div>
 
-<div class="fh-faq-item">
-  <h3>Is Fraser Heights walkable?</h3>
-  <p>It depends on the pocket. Some areas allow a comfortable walk to schools or parks, but most of Fraser Heights suits households comfortable driving for daily needs.</p>
-</div>
+    <div class="fh-faq-item">
+      <h3>Is Fraser Heights walkable?</h3>
+      <p>It depends on the pocket. Some areas allow a comfortable walk to schools or parks, but most of Fraser Heights suits households comfortable driving for daily needs.</p>
+    </div>
 
-<div class="fh-faq-item">
-  <h3>What types of homes are common in Fraser Heights?</h3>
-  <p>Mostly detached homes, a mix of older established properties and newer builds. Age, lot size, and renovation quality vary a lot, so compare properties individually.</p>
-</div>
+    <div class="fh-faq-item">
+      <h3>What types of homes are common in Fraser Heights?</h3>
+      <p>Mostly detached homes, a mix of older established properties and newer builds. Age, lot size, and renovation quality vary a lot, so compare properties individually.</p>
+    </div>
 
-<div class="fh-faq-item">
-  <h3>Does Highway 1 noise affect Fraser Heights?</h3>
-  <p>In some spots, yes. If a property is close to Highway 1, spend time outside the home at more than one time of day before deciding.</p>
-</div>
+    <div class="fh-faq-item">
+      <h3>Does Highway 1 noise affect Fraser Heights?</h3>
+      <p>In some spots, yes. If a property is close to Highway 1, spend time outside the home at more than one time of day before deciding.</p>
+    </div>
 
-<div class="fh-faq-item">
-  <h3>Is Fraser Heights better than Fleetwood for families?</h3>
-  <p>Neither is automatically better. Fraser Heights suits a quieter, car-oriented lifestyle. Fleetwood suits buyers who want more shopping, services, and future transit access. It depends on how your family wants to live.</p>
-</div>
+    <div class="fh-faq-item">
+      <h3>Is Fraser Heights better than Fleetwood for families?</h3>
+      <p>Neither is automatically better. Fraser Heights suits a quieter, car-oriented lifestyle. Fleetwood suits buyers who want more shopping, services, and future transit access. It depends on how your family wants to live.</p>
+    </div>
 
-<div class="fh-faq-item">
-  <h3>What should I check before buying in Fraser Heights?</h3>
-  <p>The exact street and pocket, road noise, the home's age and condition, renovation quality, school catchments, daily transportation needs, and any nearby development activity. The neighbourhood name matters, but the property still has to work on its own.</p>
-</div>
-```
+    <div class="fh-faq-item">
+      <h3>What should I check before buying in Fraser Heights?</h3>
+      <p>The exact street and pocket, road noise, the home's age and condition, renovation quality, school catchments, daily transportation needs, and any nearby development activity. The neighbourhood name matters, but the property still has to work on its own.</p>
+    </div>
 
   </div>
   </div>
@@ -218,10 +213,10 @@ permalink: /fraser-heights/
   <div class="page-shell page-shell--narrow">
 <h2>Keep exploring Surrey neighbourhoods</h2>
   <ul>
-    <li><a href="{{ '/areas/fleetwood/' | relative_url }}">Living in Fleetwood, Surrey</a></li>
+    <li><a href="{{ '/fleetwood/' | relative_url }}">Living in Fleetwood, Surrey</a></li>
     <li><a href="{{ '/tynehead/' | relative_url }}">Living in Tynehead, Surrey</a></li>
     <li><a href="{{ '/buying/' | relative_url }}">How I help buyers make a clearer home decision</a></li>
-    <li><a href="{{ '/about/' | relative_url }}">About Tanvir</a></li>
+    <li><a href="{{ '/about/' | relative_url }}">About  Bhupal</a></li>
   </ul>
   </div>
 </section>
@@ -257,7 +252,7 @@ permalink: /fraser-heights/
       "inLanguage": "en-CA",
       "dateModified": "2026-08-07",
       "author": {
-        "@id": "{{ '/' | absolute_url }}#tanvir-bhupal"
+        "@id": "{{ '/' | absolute_url }}#-bhupal"
       },
       "about": [
         {
@@ -280,8 +275,8 @@ permalink: /fraser-heights/
     },
     {
       "@type": "Person",
-      "@id": "{{ '/' | absolute_url }}#tanvir-bhupal",
-      "name": "Tanvir Bhupal",
+      "@id": "{{ '/' | absolute_url }}#-bhupal",
+      "name": " Bhupal",
       "jobTitle": "REALTOR",
       "telephone": "+1-604-897-7826",
       "worksFor": {
