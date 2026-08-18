@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: default
 title: Selling Your Home
@@ -231,4 +230,3 @@ From there, we'll look at the market, what prep is actually worth doing, realist
 
   </div>
 </section>
-```
