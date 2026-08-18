@@ -30,7 +30,7 @@ nav_title: Articles
 </section>
 
 <section class="page-section page-section--soft">
-  <div class="page-shell">
+  <div class="page-shell page-shell--narrow" style="text-align: center;">
     <div class="section-heading">
       <p class="eyebrow">Start Here</p>
       <h2>Is Fleetwood Surrey the Right Choice for Your Family?</h2>
