@@ -203,7 +203,7 @@ last_modified_at: 2026-08-02
         <span>Explore daily life</span>
       </a>
 
-      <a class="resource-card" href="/articles/fleetwood/moving/">
+     <a class="resource-card" href="{{ '/articles/moving-to-fleetwood/' | relative_url }}">
         <h3>Moving to Fleetwood</h3>
         <p>Commutes, boundaries, nearby-area comparisons, and the trade-offs involved in relocating.</p>
         <span>Explore relocation guidance</span>
