@@ -161,7 +161,7 @@ A community name can help you get your bearings. But when it comes to boundaries
 <div class="faq-list">
   <details>
     <summary>Is Berkshire Park part of Fleetwood or Guildford?</summary>
-    <p>Berkshire Park is an official City park at 9283 154 Street, and the City identifies the park as being in Fleetwood. Berkshire Park Elementary is also in Fleetwood. However, “Berkshire Park” is not a separate formally bounded neighbourhood. The classification of any surrounding property should be checked using its exact address.</p>
+    <p>Berkshire Park is identified by the City of Surrey as being in Fleetwood. For any nearby property, confirm the exact address if you need to verify community boundaries, school catchments, zoning, or planning areas.</p>
   </details>
 
   <details>
