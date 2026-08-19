@@ -14,15 +14,21 @@ articles_url: /articles/
 articles_canonical: "https://tanvirbhupal.com/articles/"
 quick_answer: "Fleetwood may suit families who want a more contained daily routine, established residential streets and improving rapid-transit access. Cloverdale may suit families who value a stronger historic community identity, varied housing pockets and access to major athletic facilities. The better choice depends on the exact school address, commute, housing trade-offs and how your family actually spends a normal week."
 related_articles:
-  - title: "Fleetwood vs. Clayton Heights: Which Surrey Neighbourhood Is Better?"
-    url: /articles/fleetwood-vs-clayton-heights/
-    summary: "Compare Fleetwood with Clayton Heights if newer housing, walkable retail, parking, lot size and neighbourhood density are also part of your decision."
+  - title: "Fleetwood vs Clayton Heights: Which Surrey Neighbourhood Is Better?"
+    url: /articles/fleetwood-vs-clayton-heights-which-surrey-neighbourhood-is-better/
+    summary: "Compare Fleetwood and Clayton Heights through housing, lot size, walkability, neighbourhood feel, and the trade-offs that matter to families."
+
   - title: "Should You Buy a Home in Fleetwood or Guildford, Surrey?"
     url: /articles/should-you-buy-a-home-in-fleetwood-or-guildford-surrey/
-    summary: "Compare Fleetwood's residential feel with Guildford's shopping, highway access, transit connections and more urban convenience."
+    summary: "Compare Fleetwood and Guildford through housing, convenience, transportation and neighbourhood feel."
+
+  - title: "Enver Creek Secondary vs Fleetwood Park Secondary: Catchment Differences"
+    url: /articles/enver-creek-secondary-vs-fleetwood-park-secondary-catchment-differences/
+    summary: "Understand how school catchments can affect a family move and why the exact address matters."
+
   - title: "Is Fleetwood Surrey the Right Choice for Your Family?"
     url: /articles/is-fleetwood-surrey-the-right-choice-for-your-family/
-    summary: "Step back from the neighbourhood comparison and look at whether Fleetwood fits your family's housing, school, commute and everyday priorities."
+    summary: "Step back from the comparison and look at whether Fleetwood fits your family's housing, schools, commute and everyday priorities."
 cta_eyebrow: "Coordinating a Move"
 cta_heading: "Trying to decide between Fleetwood and Cloverdale?"
 cta_text: "If the decision comes down to schools, housing, commuting, recreation or the way your week actually works, we can compare the trade-offs before you feel pressure to choose a property."
