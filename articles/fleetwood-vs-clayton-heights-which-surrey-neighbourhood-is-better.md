@@ -49,7 +49,7 @@ If you want another nearby comparison before deciding, see [Should You Buy a Hom
 
 Commute times and future infrastructure matter here too. Clayton Heights has fairly direct access to Highway 1 through 200 Street or 176 Street (Highway 15), which makes it a solid pick for drivers heading toward the Port Mann Bridge.
 
-Both neighbourhoods are getting rapid transit through the [Surrey Langley SkyTrain extension](https://surreylangleyskytrain.gov.bc.ca/), which extends the Expo Line along Fraser Highway. Fleetwood will be served by 152 Street Station, Fleetwood Station and Bakerview-166 Street Station. Clayton will be served by Hillcrest-184 Street Station and Clayton Station.
+Both neighbourhoods are getting rapid transit through the Surrey Langley SkyTrain extension, which extends the Expo Line along Fraser Highway. Fleetwood will be served by 152 Street Station, Fleetwood Station and Bakerview-166 Street Station. Clayton will be served by Hillcrest-184 Street Station at 184 Street and Fraser Highway, and Clayton Station at the future intersection of 190 Street and Fraser Highway.
 
 What really matters for either neighbourhood is how close a specific home sits to its nearest station. A house a five-minute walk from a stop is a very different commute than one twenty minutes away, no matter which neighbourhood it's in.
 
