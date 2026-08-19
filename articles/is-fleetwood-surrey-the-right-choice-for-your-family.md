@@ -52,7 +52,7 @@ Clayton Heights is the pick if you want newer architecture, modern townhouses, a
 
 Fleetwood was built during a different era of planning. In its established detached-home areas, I typically see lower street density, wider roadways, dedicated driveways, and backyards big enough for a growing family to use. That said, this varies street to street, so it's worth walking the actual block before you assume.
 
-If you're weighing those trade-offs more closely, my [Fleetwood vs. Clayton Heights comparison]({{ '/articles/fleetwood-vs-clayton-heights/' | relative_url }}) goes deeper into the differences.
+If you're weighing those trade-offs more closely, my [Fleetwood vs. Clayton Heights comparison]({{ '/articles/fleetwood-vs-clayton-heights-which-surrey-neighbourhood-is-better/' | relative_url }}) goes deeper into the differences.
 
 ### Fleetwood vs. Cloverdale
 
