@@ -17,12 +17,15 @@ related_articles:
   - title: "Living Near Tynehead Regional Park: The Pros and Cons for Pet Owners"
     url: /articles/living-near-tynehead-regional-park-the-pros-and-cons-for-pet-owners/
     summary: "Look at the day-to-day trade-offs of living near Tynehead Regional Park, especially if access to trails and outdoor space matters to you."
-    - title: "Fleetwood vs Clayton Heights: Which Surrey Neighbourhood Is Better?"
+
+  - title: "Fleetwood vs Clayton Heights: Which Surrey Neighbourhood Is Better?"
     url: /articles/fleetwood-vs-clayton-heights-which-surrey-neighbourhood-is-better/
     summary: "Compare Fleetwood and Clayton Heights once you understand where the two areas sit and how their housing, streets and daily routines differ."
+
   - title: "Should You Buy a Home in Fleetwood or Guildford, Surrey?"
     url: /articles/should-you-buy-a-home-in-fleetwood-or-guildford-surrey/
     summary: "Compare Fleetwood and Guildford through housing, convenience, transportation and neighbourhood feel."
+
   - title: "Is Fleetwood Surrey the Right Choice for Your Family?"
     url: /articles/is-fleetwood-surrey-the-right-choice-for-your-family/
     summary: "Step back from the boundary question and look at whether Fleetwood fits your family's housing, schools, commute and everyday priorities."
