@@ -15,7 +15,7 @@ articles_canonical: "https://tanvirbhupal.com/articles/"
 quick_answer: "Fleetwood can be a strong fit for families who value established residential streets, usable yard space, schools, parks and central Surrey access. Families who prioritize newer housing, tighter walkability or a different commute pattern may prefer another neighbourhood, so the right answer depends on the trade-offs that matter most day to day."
 related_articles:
   - title: "Where Does Fleetwood Actually End? Understanding Surrey's Hidden Neighbourhood Borders"
-  url: /articles/where-does-fleetwood-actually-end-understanding-surreys-hidden-neighbourhood-borders/
+    url: /articles/where-does-fleetwood-actually-end-understanding-surreys-hidden-neighbourhood-borders/
     summary: "Get clear on what people actually mean by Fleetwood before comparing specific pockets and homes."
   - title: "Commuting from Fleetwood Surrey to Downtown Vancouver: Dated Car and Transit Scenarios"
     url: /articles/commuting-from-fleetwood-surrey-to-downtown-vancouver-dated-car-and-transit-scenarios/
