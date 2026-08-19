@@ -12,22 +12,22 @@ canonical_url: https://tanvirbhupal.com/articles/moving-to-fleetwood/
     <h1>Moving to Fleetwood</h1>
 
     <p>
-      If you're considering a move to Fleetwood, the decision usually comes down to more than the home itself. Commute, schools, neighbourhood feel, housing options, everyday convenience, and how Fleetwood compares with nearby areas can all change whether it feels like the right fit.
+      Already considering Fleetwood? These guides help you compare it with nearby neighbourhoods, understand commute and location trade-offs, and work through whether a move here makes sense for your situation.
     </p>
 
     <p>
-      You don't need to work through every guide. Start with the question that matters most to your move right now.
+      If you are still trying to understand Fleetwood itself, start with the neighbourhood guide first.
+    </p>
+
+    <p>
+      <a class="text-link" href="{{ '/areas/fleetwood/' | relative_url }}">
+        Read the Fleetwood neighbourhood guide
+      </a>
     </p>
 
     <p>
       <a class="text-link" href="{{ '/articles/' | relative_url }}">
         Back to all Fleetwood articles
-      </a>
-    </p>
-
-    <p>
-      <a class="text-link" href="{{ '/areas/fleetwood/' | relative_url }}">
-        New to Fleetwood? Start with the Fleetwood neighbourhood guide
       </a>
     </p>
   </div>
