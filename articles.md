@@ -56,7 +56,7 @@ nav_title: Articles
 
     <div class="resource-grid">
 
-      <a class="resource-card" href="{{ '/articles/fleetwood/moving/' | relative_url }}">
+<a class="resource-card" href="{{ '/articles/moving-to-fleetwood/' | relative_url }}">
         <h3>Moving to Fleetwood</h3>
         <p><strong>Is Fleetwood the right place for us?</strong></p>
         <p>
