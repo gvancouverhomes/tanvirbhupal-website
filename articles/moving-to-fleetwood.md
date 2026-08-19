@@ -61,14 +61,13 @@ canonical_url: https://tanvirbhupal.com/articles/moving-to-fleetwood/
       </p>
     </div>
 
-    <a class="resource-card" href="{{ '/articles/where-does-fleetwood-actually-end-understanding-surreys-hidden-neighbourhood-borders/' | relative_url }}">
+ <a class="resource-card" href="{{ '/articles/where-does-fleetwood-actually-end-understanding-surreys-hidden-neighbourhood-borders/' | relative_url }}">
   <h3>Where Does Fleetwood Actually End? Understanding Surrey's Hidden Neighbourhood Borders</h3>
-      <h3>Where Does Fleetwood Actually End? Understanding Surrey's Hidden Neighborhood Borders</h3>
-      <p>
-        City boundaries, planning areas, school catchments, MLS wording, and local identity can point to slightly different answers. This guide helps you understand which boundary matters for the decision you are making.
-      </p>
-      <span>Read the Fleetwood boundaries guide</span>
-    </a>
+  <p>
+    City boundaries, planning areas, school catchments, MLS wording, and local identity can point to slightly different answers. This guide helps you understand which boundary matters for the decision you are making.
+  </p>
+  <span>Read the Fleetwood boundaries guide</span>
+</a>
   </div>
 </section>
 
