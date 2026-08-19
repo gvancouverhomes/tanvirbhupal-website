@@ -61,7 +61,7 @@ last_modified_at: 2026-08-02
     <p>A listing can show the distance to a school, park, grocery store, or transit stop. It cannot fully show how the street feels at 8:30 in the morning, how difficult it is to leave the driveway during rush hour, where visitors park, or how much road noise reaches the backyard.</p>
     <p>Fleetwood includes quiet interior streets, cul-de-sacs, established detached-home areas, townhouse communities, active corridors, school traffic, construction zones, and locations that may change significantly as new transit and housing arrive.</p>
     <p>That variation is why two homes that appear almost identical online can create very different day-to-day experiences.</p>
-    <p>I pay close attention to the relationship between the property and nearby roads. Living directly on or close to a major route is not automatically wrong, but buyers should understand the trade-off before assuming the location is simply convenient. My guides to <a href="/articles/what-its-really-like-to-live-on-or-near-88-avenue-in-fleetwood/">living on or near 88 Avenue</a> and <a href="/articles/is-156-street-a-safe-quiet-road-for-your-kids-to-play-on/">evaluating a home near 156 Street</a> go deeper into those differences.</p>
+    <p>I pay close attention to the relationship between the property and nearby roads. Living directly on or close to a major route is not automatically wrong, but buyers should understand the trade-off before assuming the location is simply convenient. My guides to <a href="{{ '/articles/what-its-really-like-to-live-on-or-near-88-avenue-in-fleetwood/' | relative_url }}">living on or near 88 Avenue</a> and <a href="{{ '/articles/is-156-street-a-safe-quiet-road-for-your-kids-to-play-on/' | relative_url }}">evaluating a home near 156 Street</a> go deeper into those differences.</p>
     <p class="key-takeaway"><strong>The best part of Fleetwood for your family may not be the part that initially looks best on a map.</strong></p>
   </div>
 </section>
@@ -72,7 +72,7 @@ last_modified_at: 2026-08-02
     <p>Fleetwood does not divide neatly into a collection of official micro-neighbourhoods. Some names are recognized locally, some come from older planning areas or developments, and some are used loosely in real estate marketing.</p>
     <p>Names such as Berkshire Park, the established residential areas around Fleetwood Park, and the locally recognized Coast Meridian Estates area can help organize a search. Areas closer to Fraser Highway and future transit have a different set of considerations than quieter sections farther from the main corridor. Toward the eastern side of Fleetwood, some buyers also look for larger lots, mature homes, or properties closer to the agricultural edge.</p>
     <p>Those labels are useful only to a point. Boundaries can be approximate, and one street within a recognized pocket may feel noticeably different from the next. The actual road, access pattern, surrounding housing, and property still need to be evaluated individually.</p>
-    <p>For a broader orientation, read <a href="/articles/where-does-fleetwood-actually-end-understanding-surreys-hidden-neighbourhood-borders/">where Fleetwood actually begins and ends</a>. For a closer look at one quieter residential area, see my guide to <a href="/articles/is-the-area-around-berkshire-park-one-of-fleetwoods-best-quiet-residential-locations/">the area around Berkshire Park</a>.</p>
+    <p>For a broader orientation, read <a href="{{ '/articles/where-does-fleetwood-actually-end-understanding-surreys-hidden-neighbourhood-borders/' | relative_url }}">where Fleetwood actually begins and ends</a>. For a closer look at one quieter residential area, see my guide to <a href="{{ '/articles/is-the-area-around-berkshire-park-one-of-fleetwoods-best-quiet-residential-locations/' | relative_url }}">the area around Berkshire Park</a>.</p>
   </div>
 </section>
 
@@ -84,7 +84,7 @@ last_modified_at: 2026-08-02
     <p>Condition can vary widely. Buyers may need to consider the roof, drainage, plumbing, electrical systems, windows, heating, past renovations, and whether additions or suites were completed properly. A renovated interior can still hide expensive work or a layout that never functioned particularly well.</p>
     <p>The layout deserves the same attention as the building systems. Some established homes provide useful separation, comfortable bedrooms, good storage, and flexible lower levels. Others have dark additions, awkward stairs, poor suite separation, or square footage that looks impressive but does not improve daily life.</p>
     <p class="key-takeaway"><strong>In Fleetwood's established areas, the strongest value often comes from the combination of street, lot, layout, condition, and future flexibility, not from the size or age of the home alone.</strong></p>
-    <p>Buyers comparing mature homes may find it useful to read about <a href="/articles/where-to-find-larger-lots-and-mature-homes-near-168-street-and-84-avenue/">larger lots and mature homes near 168 Street and 84 Avenue</a>, as well as <a href="/articles/the-overpriced-renovated-home-trap-in-mature-fleetwood-pockets/">the renovated-home trap in mature Fleetwood pockets</a>.</p>
+    <p>Buyers comparing mature homes may find it useful to read about <a href="{{ '/articles/where-to-find-larger-lots-and-mature-homes-near-168-street-and-84-avenue/' | relative_url }}">larger lots and mature homes near 168 Street and 84 Avenue</a>, as well as <a href="{{ '/articles/the-overpriced-renovated-home-trap-in-mature-fleetwood-pockets/' | relative_url }}">the renovated-home trap in mature Fleetwood pockets</a>.</p>
   </div>
 </section>
 
@@ -96,7 +96,7 @@ last_modified_at: 2026-08-02
     <p>A newer home may have tighter parking, less storage, smaller outdoor areas, more stairs, limited visitor parking, or less privacy. A den or flex room may not function like a real bedroom. A modern kitchen may be impressive during a showing while the garage, entry, and storage create frustration every day.</p>
     <p>For strata properties, the monthly fee is only one part of the review. Bylaws, insurance, contingency planning, maintenance history, pet and rental rules, parking rights, and the way the complex is managed may matter just as much as the age of the home.</p>
     <p class="key-takeaway"><strong>Newer housing can reduce some maintenance concerns, but buyers still need to decide whether the parking, privacy, outdoor space, rules, and layout genuinely support their daily life.</strong></p>
-    <p>My <a href="/articles/buying-a-townhome-vs-detached-house-near-coast-meridian-estates/">townhome versus detached-home comparison</a> and guide to <a href="/articles/older-fleetwood-townhouses-vs-new-builds/">older Fleetwood townhouses versus new builds</a> explore these choices in more detail.</p>
+    <p>My <a href="{{ '/articles/buying-a-townhome-vs-detached-house-near-coast-meridian-estates/' | relative_url }}">townhome versus detached-home comparison</a> and guide to <a href="{{ '/articles/older-fleetwood-townhouses-vs-new-builds/' | relative_url }}">older Fleetwood townhouses versus new builds</a> explore these choices in more detail.</p>
   </div>
 </section>
 
@@ -127,7 +127,7 @@ last_modified_at: 2026-08-02
     <p>School reputation should not be treated as a guarantee. Programs, enrolment conditions, boundaries, and a family's own needs can change. Families should confirm the current catchment for a specific address through the Surrey School District before relying on it.</p>
     <p>A home in a sought-after catchment may still be the wrong choice if it sits on an uncomfortable road, creates a difficult commute, lacks parking, or does not function well for the family.</p>
     <p class="key-takeaway"><strong>Schools matter, but the right decision comes from looking at the catchment, daily routine, street, and property together.</strong></p>
-    <p>For a deeper framework, read <a href="/articles/how-to-compare-elementary-schools-in-fleetwood-surrey/">how to compare Fleetwood elementary schools</a> and <a href="/articles/enver-creek-secondary-vs-fleetwood-park-secondary-catchment-differences/">the practical differences between the Enver Creek and Fleetwood Park Secondary catchments</a>.</p>
+    <p>For a deeper framework, read <a href="{{ '/articles/how-to-compare-elementary-schools-in-fleetwood-surrey/' | relative_url }}">how to compare Fleetwood elementary schools</a> and <a href="{{ '/articles/enver-creek-secondary-vs-fleetwood-park-secondary-catchment-differences/' | relative_url }}">the practical differences between the Enver Creek and Fleetwood Park Secondary catchments</a>.</p>
     <p class="source-note">Current catchments should be verified using the <a href="https://www.surreyschools.ca/school-catchment-locator" target="_blank" rel="noopener noreferrer">Surrey School District Catchment Locator</a>.</p>
   </div>
 </section>
@@ -139,7 +139,7 @@ last_modified_at: 2026-08-02
     <p>That does not make every Fleetwood address equally walkable.</p>
     <p>Many daily routines still work better with a vehicle. A destination may look close while a major road, indirect entrance, limited crossing point, or uncomfortable walking route makes the trip less practical. Being close to shopping can also bring traffic, delivery activity, density, or noise.</p>
     <p>Convenience should be judged from the property itself: how you enter and leave, where you need to go each day, whether children can travel comfortably, and which routes you will actually use.</p>
-    <p>For more detail, explore <a href="/articles/can-you-really-walk-to-the-shops-and-parks-near-frost-road/">walkability around Frost Road</a> and my guide to <a href="/articles/a-tour-of-green-spaces-and-off-leash-dog-parks-in-fleetwood/">Fleetwood's green spaces and off-leash options</a>.</p>
+    <p>For more detail, explore <a href="{{ '/articles/can-you-really-walk-to-the-shops-and-parks-near-frost-road/' | relative_url }}">walkability around Frost Road</a> and my guide to <a href="{{ '/articles/a-tour-of-green-spaces-and-off-leash-dog-parks-in-fleetwood/' | relative_url }}">Fleetwood's green spaces and off-leash options</a>.</p>
   </div>
 </section>
 
@@ -151,7 +151,7 @@ last_modified_at: 2026-08-02
     <p>Those benefits come with trade-offs. Construction, road changes, increased density, redevelopment, changing traffic patterns, and evolving street character will not affect every property in the same way.</p>
     <p>A home's relationship to transit matters, but so do its exact street position, access, noise exposure, surrounding land use, and what may be developed nearby. A shorter walk to a station does not automatically make a property more suitable for a family or a better purchase.</p>
     <p class="key-takeaway"><strong>Future transit may improve how Fleetwood connects with the rest of Surrey and Metro Vancouver, but proximity alone does not make a property a better purchase.</strong></p>
-    <p>Buyers considering the corridor can continue with my guides to <a href="/articles/should-you-buy-a-family-home-within-walking-distance-of-152-street-station/">buying near 152 Street Station</a>, <a href="/articles/is-the-area-around-fleetwood-station-good-for-raising-kids/">family life near Fleetwood Station</a>, and <a href="/articles/an-honest-look-at-whats-coming-to-fleetwood-over-the-next-five-years/">the changes planned for Fleetwood over the next several years</a>.</p>
+    <p>Buyers considering the corridor can continue with my guides to <a href="{{ '/articles/should-you-buy-a-family-home-within-walking-distance-of-152-street-station/' | relative_url }}">buying near 152 Street Station</a>, <a href="{{ '/articles/is-the-area-around-fleetwood-station-good-for-raising-kids/' | relative_url }}">family life near Fleetwood Station</a>, and <a href="{{ '/articles/an-honest-look-at-whats-coming-to-fleetwood-over-the-next-five-years/' | relative_url }}">the changes planned for Fleetwood over the next several years</a>.</p>
     <p class="source-note">Transit timing and station information were reviewed against the <a href="https://surreylangleyskytrain.gov.bc.ca/" target="_blank" rel="noopener noreferrer">Surrey Langley SkyTrain project website</a>. Land-use planning should be confirmed through the <a href="https://www.surrey.ca/renovating-building-development/land-planning-development/land-use-planning/fleetwood-land-use-plans/fleetwood-town-centre-plan" target="_blank" rel="noopener noreferrer">City of Surrey Fleetwood Plan</a>, which continues to be updated.</p>
   </div>
 </section>
@@ -234,7 +234,7 @@ last_modified_at: 2026-08-02
       </a>
     </div>
 
-    <p class="section-link"><a href="/articles/fleetwood/">Browse the complete Fleetwood article library</a></p>
+    <p class="section-link"><a href="{{ '/articles/' | relative_url }}">Browse the complete Fleetwood article library</a></p>
   </div>
 </section>
 
