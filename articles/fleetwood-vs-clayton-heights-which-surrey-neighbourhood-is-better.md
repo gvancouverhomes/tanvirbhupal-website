@@ -3,8 +3,8 @@ layout: article
 title: "Fleetwood vs Clayton Heights: Which Surrey Neighbourhood Is Better?"
 meta_title: "Fleetwood vs Clayton Heights: Which Is Better?"
 description: "Compare Fleetwood and Clayton Heights for housing, lot size, parking, walkability, commuting and future SkyTrain access before deciding which Surrey neighbourhood fits."
-permalink: /articles/fleetwood-vs-clayton-heights/
-canonical: "https://tanvirbhupal.com/articles/fleetwood-vs-clayton-heights/"
+permalink: /articles/fleetwood-vs-clayton-heights-which-surrey-neighbourhood-is-better/
+canonical: "https://tanvirbhupal.com/articles/fleetwood-vs-clayton-heights-which-surrey-neighbourhood-is-better/"
 date: 2026-08-19
 author: Tanvir Bhupal
 primary_hub: "Moving to Fleetwood"
