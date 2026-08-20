@@ -539,7 +539,9 @@ p {
 /* =========================================================
    ARTICLE PAGE FOUNDATION
    ========================================================= */
-
+.article-page .page-hero {
+  padding: 32px 0 34px;
+}
 .article-page .page-hero h1 {
   max-width: 760px;
   margin-bottom: 20px;
