@@ -428,12 +428,12 @@ p {
 }
 
 .page-hero {
-  padding: clamp(54px, 6vw, 78px) 0 clamp(58px, 6vw, 82px);
+  padding: 46px 0 52px;
   background: var(--canvas);
 }
 
 .page-section {
-  padding: clamp(56px, 6vw, 78px) 0;
+  padding: 42px 0;
 }
 
 .page-section--soft {
