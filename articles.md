@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Articles and Guides About Living in Fleetwood, Surrey
-description: Practical Fleetwood, Surrey articles and guides covering moving, family life, housing, property due diligence, SkyTrain, development, buying, and selling.
+title: Real Estate Articles & Neighbourhood Guides
+description: Practical real estate and neighbourhood guides covering buying, selling, moving, housing, and everyday life across Surrey and Greater Vancouver.
 permalink: /articles/
 canonical_url: https://tanvirbhupal.com/articles/
 nav_title: Articles
@@ -9,16 +9,16 @@ nav_title: Articles
 
 <section class="page-hero articles-hero">
   <div class="page-shell page-shell--narrow">
-    <p class="eyebrow">Fleetwood Knowledge Library</p>
+    <p class="eyebrow">Articles &amp; Guides</p>
 
-    <h1>Articles and Guides About Living in Fleetwood, Surrey</h1>
+    <h1>Real Estate Articles &amp; Neighbourhood Guides</h1>
 
     <p>
-      This library covers the questions that come up most when you're figuring out if Fleetwood fits, comparing homes, raising a family here, checking out a property, or trying to understand how the area is changing.
+      Practical guides for people buying, selling, moving, and comparing neighbourhoods in Fleetwood, Tynehead, Fraser Heights, and surrounding areas.
     </p>
 
     <p>
-      You don't need to read all of it. Just start with whatever question matters most to you right now.
+      Fleetwood is the deepest part of the library today. Start there if you're considering the area, or explore the topic that matters most to your move.
     </p>
 
     <p>
@@ -30,7 +30,7 @@ nav_title: Articles
 </section>
 
 <section class="page-section page-section--soft articles-start">
-  <div class="page-shell page-shell--narrow" style="text-align: center;">
+  <div class="page-shell page-shell--narrow">
     <div class="section-heading">
       <p class="eyebrow">Start Here</p>
       <h2>Is Fleetwood Surrey the Right Choice for Your Family?</h2>
