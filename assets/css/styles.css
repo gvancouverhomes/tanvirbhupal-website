@@ -536,7 +536,16 @@ p {
 .button-row--center {
   justify-content: center;
 }
+/* =========================================================
+   ARTICLE PAGE FOUNDATION
+   ========================================================= */
 
+.article-page .page-hero h1 {
+  max-width: 760px;
+  margin-bottom: 20px;
+  font-size: clamp(3rem, 4.2vw, 4.25rem);
+  line-height: 1.02;
+}
 
 /* =========================================================
    INTERIOR PAGE COMPONENTS
