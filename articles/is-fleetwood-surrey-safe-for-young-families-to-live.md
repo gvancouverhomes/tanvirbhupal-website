@@ -46,7 +46,7 @@ The City of Surrey is also planning higher-density growth around these future st
 
 That does not automatically make those areas unsafe, and I would not use proximity to SkyTrain as a shortcut for judging safety. It does mean I would evaluate a home near the corridor differently from a home several blocks into an established residential pocket.
 
-For current crime information, I would also check the official [Surrey Police Service crime mapping and statistics](https://surreypolice.ca/crime-maps-stats) rather than relying on broad assumptions about Surrey. The crime map allows you to look at recent incidents geographically, which is much more useful when you are evaluating an actual property.
+For current crime information, I would also check the official [Surrey Police Service crime mapping and statistics](https://surreypolice.ca/crime-maps-stats){: target="_blank" rel="noopener noreferrer" } rather than relying on broad assumptions about Surrey. The crime map allows you to look at recent incidents geographically, which is much more useful when you are evaluating an actual property.
 
 ## For Young Families, Traffic Can Matter Just as Much as Crime
 
@@ -75,13 +75,13 @@ If 156 Street is one of the locations you are considering, my guide to [whether 
 
 One of the reasons I like Fleetwood for families is that the community infrastructure is easy to see once you spend time here.
 
-The [Fleetwood Community Centre](https://www.surrey.ca/parks-recreation/recreation-facilities/fleetwood-community-centre) is at **15996 84 Avenue**, beside the Fleetwood branch of Surrey Libraries, Fleetwood Park and Francis Park. The City currently offers registered and drop-in programming there for different age groups.
+The [Fleetwood Community Centre](https://www.surrey.ca/parks-recreation/recreation-facilities/fleetwood-community-centre){: target="_blank" rel="noopener noreferrer" } is at **15996 84 Avenue**, beside the Fleetwood branch of Surrey Libraries, Fleetwood Park and Francis Park. The City currently offers registered and drop-in programming there for different age groups.
 
-[Francis Park](https://www.surrey.ca/parks-recreation/parks/francis-park), immediately south of the community centre, has open grass, a playground and a 300-metre walking loop.
+[Francis Park](https://www.surrey.ca/parks-recreation/parks/francis-park){: target="_blank" rel="noopener noreferrer" }, immediately south of the community centre, has open grass, a playground and a 300-metre walking loop.
 
-[Fleetwood Park](https://www.surrey.ca/parks-recreation/parks/fleetwood-park), at **15802 80 Avenue**, has play areas, a spray park, gardens and nature trails.
+[Fleetwood Park](https://www.surrey.ca/parks-recreation/parks/fleetwood-park){: target="_blank" rel="noopener noreferrer" }, at **15802 80 Avenue**, has play areas, a spray park, gardens and nature trails.
 
-And [Surrey Lake Park](https://www.surrey.ca/parks-recreation/parks/surrey-lake-park), at **7500 152 Street**, offers a 1.5-kilometre nature trail around the lake.
+And [Surrey Lake Park](https://www.surrey.ca/parks-recreation/parks/surrey-lake-park){: target="_blank" rel="noopener noreferrer" }, at **7500 152 Street**, offers a 1.5-kilometre nature trail around the lake.
 
 Those places do not prove that every Fleetwood property is a good fit for a family. They do give you useful anchors when you are looking at how a particular home connects to parks, recreation and everyday routines.
 
@@ -179,4 +179,3 @@ That is a much stronger way to make the decision than relying on Surrey's reputa
   </details>
 </div>
 
-Not intended to solicit clients currently under contract.

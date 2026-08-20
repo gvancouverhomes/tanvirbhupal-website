@@ -40,7 +40,7 @@ The City of Surrey does have official community-boundary information for Fleetwo
 
 That is why buyers and sellers should look past the neighbourhood name in a listing and check the exact address.
 
-The City describes [Fleetwood](https://www.surrey.ca/about-surrey/our-communities/fleetwood) as a community in northern Surrey, with Whalley to the west, Newton and Cloverdale to the south, and Guildford to the east and north. The Fleetwood planning area is described differently, extending from Green Timbers Urban Forest in the west toward the Agricultural Land Reserve in the east.
+The City describes [Fleetwood](https://www.surrey.ca/about-surrey/our-communities/fleetwood){: target="_blank" rel="noopener noreferrer" } as a community in northern Surrey, with Whalley to the west, Newton and Cloverdale to the south, and Guildford to the east and north. The Fleetwood planning area is described differently, extending from Green Timbers Urban Forest in the west toward the Agricultural Land Reserve in the east.
 
 Those descriptions are useful for orientation, but neither should be used as a shortcut for deciding where one particular property belongs. Near Fleetwood’s outer edges, the correct answer depends on which boundary system you are checking.
 
@@ -80,7 +80,7 @@ Rather than assuming that a nearby landmark decides the neighbourhood, check the
 
 Guildford lies to the east and north of Fleetwood.
 
-The northeast side also includes the [Anniedale-Tynehead planning area](https://www.surrey.ca/renovating-building-development/land-planning-development/land-use-planning/guildford-land-use-plans/anniedale-tynehead-ncp). The City handles the Anniedale-Tynehead Neighbourhood Concept Plan within its Guildford land-use planning materials.
+The northeast side also includes the [Anniedale-Tynehead planning area](https://www.surrey.ca/renovating-building-development/land-planning-development/land-use-planning/guildford-land-use-plans/anniedale-tynehead-ncp){: target="_blank" rel="noopener noreferrer" }. The City handles the Anniedale-Tynehead Neighbourhood Concept Plan within its Guildford land-use planning materials.
 
 The plan area is generally located east of 168 Street, with Highway 1 and 96 Avenue toward the north, the Agricultural Land Reserve toward the south, and Harvie Road toward the east.
 
@@ -88,7 +88,7 @@ Those general reference points do not prove that a particular property falls ins
 
 ## Berkshire Park and the Northern Fleetwood Area
 
-[Berkshire Park](https://www.surrey.ca/parks-recreation/parks/berkshire-park) is an official City park at 9283 154 Street, and the City identifies it as being in Fleetwood. Berkshire Park Elementary is also an official school in Fleetwood.
+[Berkshire Park](https://www.surrey.ca/parks-recreation/parks/berkshire-park){: target="_blank" rel="noopener noreferrer" } is an official City park at 9283 154 Street, and the City identifies it as being in Fleetwood. Berkshire Park Elementary is also an official school in Fleetwood.
 
 The park and school are useful local landmarks, but “Berkshire Park” is not a formally bounded neighbourhood on its own.
 
@@ -112,7 +112,7 @@ A property near the edge of Fleetwood may be close to one school while being ass
 
 Do not rely on a listing description, the nearest school, or what happened with a neighbouring property several years ago.
 
-Use the [Surrey Schools School Locator](https://www.surreyschools.ca/demographicsandfacilitiesplanning/school-locator) and enter the exact address.
+Use the [Surrey Schools School Locator](https://www.surreyschools.ca/demographicsandfacilitiesplanning/school-locator){: target="_blank" rel="noopener noreferrer" } and enter the exact address.
 
 ## How the Fleetwood Plan and SkyTrain Fit In
 
@@ -166,7 +166,7 @@ A community name can help you get your bearings. But when it comes to boundaries
 
   <details>
     <summary>How do I confirm the school catchment for a border property?</summary>
-    <p>Use the <a href="https://www.surreyschools.ca/demographicsandfacilitiesplanning/school-locator">Surrey Schools online locator</a> and enter the exact property address. School catchments do not necessarily follow City community boundaries, planning areas, or listing descriptions.</p>
+    <p>Use the <a href="https://www.surreyschools.ca/demographicsandfacilitiesplanning/school-locator" target="_blank" rel="noopener noreferrer">Surrey Schools online locator</a> and enter the exact property address. School catchments do not necessarily follow City community boundaries, planning areas, or listing descriptions.</p>
   </details>
 
   <details>

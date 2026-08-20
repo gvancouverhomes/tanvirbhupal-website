@@ -40,7 +40,7 @@ If you're comparing a few Surrey neighbourhoods before narrowing the search, my 
 
 When you shop with the same budget in both neighbourhoods, you're really choosing between two kinds of value.
 
-In Guildford, your money often buys location and access. [Guildford Town Centre](https://www.guildfordtowncentre.com/), at **10355 152 Street, Surrey**, sits at the heart of the area near 104 Avenue, with Guildford Exchange nearby and quick access toward Highway 1 and the Port Mann Bridge. If you commute daily, or you love having restaurants and big retail close by, that's a strong pull. But that convenience can come with a trade-off. Depending on the pocket, you might end up on a busier street, in an older townhouse complex, or on a smaller lot closer to the commercial centre. It really depends on the property and the specific block.
+In Guildford, your money often buys location and access. [Guildford Town Centre](https://www.guildfordtowncentre.com/){: target="_blank" rel="noopener noreferrer" }, at **10355 152 Street, Surrey**, sits at the heart of the area near 104 Avenue, with Guildford Exchange nearby and quick access toward Highway 1 and the Port Mann Bridge. If you commute daily, or you love having restaurants and big retail close by, that's a strong pull. But that convenience can come with a trade-off. Depending on the pocket, you might end up on a busier street, in an older townhouse complex, or on a smaller lot closer to the commercial centre. It really depends on the property and the specific block.
 
 In Fleetwood, that same budget often buys more of a residential feel instead. Fleetwood is a suburb through and through. Established subdivisions. Mature trees. More privacy in many pockets. A lot of homes here sit on quieter, local-only streets. The trade-off can be a longer drive for big shopping trips or highway access. But again, this varies property by property. You're generally buying the neighbourhood feel first, and convenience second.
 
@@ -48,9 +48,9 @@ In Fleetwood, that same budget often buys more of a residential feel instead. Fl
 
 Commuting is often what settles the decision, especially with everything changing in Surrey right now.
 
-Guildford is generally the stronger pick for buyers who lean on established transit and highway access. The [R1 King George Boulevard RapidBus](https://www.translink.ca/schedules-and-maps/route/r1/direction/0/schedule) connects Guildford with Surrey Central and the existing Expo Line network. If you cross the bridge for work, or you rely on frequent bus routes into Surrey Central, Guildford tends to offer more convenience day to day. But no commute is guaranteed smooth. It still comes down to your exact address, where you're headed, the time of day, and how the traffic is running that morning.
+Guildford is generally the stronger pick for buyers who lean on established transit and highway access. The [R1 King George Boulevard RapidBus](https://www.translink.ca/schedules-and-maps/route/r1/direction/0/schedule){: target="_blank" rel="noopener noreferrer" } connects Guildford with Surrey Central and the existing Expo Line network. If you cross the bridge for work, or you rely on frequent bus routes into Surrey Central, Guildford tends to offer more convenience day to day. But no commute is guaranteed smooth. It still comes down to your exact address, where you're headed, the time of day, and how the traffic is running that morning.
 
-Fleetwood is a neighbourhood in the middle of a shift. Construction on the [Surrey Langley SkyTrain extension](https://surreylangleyskytrain.gov.bc.ca/) is underway along the Fraser Highway corridor. The planned extension includes 152 Street Station, Fleetwood Station and Bakerview-166 Street Station as part of the eight-station route from King George Station toward Langley City Centre. That brings real short-term disruption along parts of the corridor: roadwork, shifting traffic patterns, and construction noise. That disruption is heaviest right along and near Fraser Highway itself. Pockets further into the interior of Fleetwood tend to see a lot less of the noise and roadwork day to day.
+Fleetwood is a neighbourhood in the middle of a shift. Construction on the [Surrey Langley SkyTrain extension](https://surreylangleyskytrain.gov.bc.ca/){: target="_blank" rel="noopener noreferrer" } is underway along the Fraser Highway corridor. The planned extension includes 152 Street Station, Fleetwood Station and Bakerview-166 Street Station as part of the eight-station route from King George Station toward Langley City Centre. That brings real short-term disruption along parts of the corridor: roadwork, shifting traffic patterns, and construction noise. That disruption is heaviest right along and near Fraser Highway itself. Pockets further into the interior of Fleetwood tend to see a lot less of the noise and roadwork day to day.
 
 Buyers who choose Fleetwood today are usually thinking long-term. They're willing to put up with some construction to land near a future station before the line opens.
 
@@ -64,7 +64,7 @@ Guildford has a major regional shopping centre built directly into the neighbour
 
 Fleetwood is more spread out. It doesn't have a single indoor shopping centre that defines the neighbourhood in the same way. Instead, everyday shopping is distributed along Fraser Highway, 152 Street, 160 Street and nearby commercial plazas.
 
-One recognizable local grocery anchor is [Fresh St. Market Fleetwood](https://www.freshstmarket.com/contact/surrey), at **15930 Fraser Highway, Surrey**. Around it are smaller restaurants, cafés, pharmacies and neighbourhood services that cover most day-to-day needs without leaving Fleetwood.
+One recognizable local grocery anchor is [Fresh St. Market Fleetwood](https://www.freshstmarket.com/contact/surrey){: target="_blank" rel="noopener noreferrer" }, at **15930 Fraser Highway, Surrey**. Around it are smaller restaurants, cafés, pharmacies and neighbourhood services that cover most day-to-day needs without leaving Fleetwood.
 
 That difference matters more than it might seem. Guildford puts more amenities into one concentrated area. Fleetwood's amenities are more dispersed through a largely residential neighbourhood.
 
@@ -98,7 +98,7 @@ If Fleetwood is starting to look like the better fit but you want to step back a
 
   <details>
     <summary>Are the schools different between Fleetwood and Guildford?</summary>
-    <p>Both neighbourhoods fall within the Surrey School District, but the school assigned to a property depends on its exact address rather than the neighbourhood name alone. Catchment boundaries can vary and may change over time. If schools are important to your move, check the current catchment for the specific property using the official <a href="https://www.surreyschools.ca/demographicsandfacilitiesplanning/school-locator">Surrey Schools School Locator</a> before making a decision.</p>
+    <p>Both neighbourhoods fall within the Surrey School District, but the school assigned to a property depends on its exact address rather than the neighbourhood name alone. Catchment boundaries can vary and may change over time. If schools are important to your move, check the current catchment for the specific property using the official <a href="https://www.surreyschools.ca/demographicsandfacilitiesplanning/school-locator" target="_blank" rel="noopener noreferrer">Surrey Schools School Locator</a> before making a decision.</p>
   </details>
 
   <details>

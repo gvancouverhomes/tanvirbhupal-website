@@ -52,17 +52,17 @@ If school planning matters to you, this is worth slowing down on.
 
 Many Fleetwood neighbourhoods feel established, and that gives families a sense of a steady path from elementary through to a school like Fleetwood Park Secondary. But that feeling of stability shouldn't be mistaken for a guarantee. School assignment is address-specific, not neighbourhood-specific, and Fleetwood isn't immune to growth pressure either.
 
-Cloverdale is a great place to raise kids, but it's growing fast. [Surrey Schools has identified rapid enrolment growth and student-capacity shortages in Cloverdale](https://www.surreyschools.ca/demographicsandfacilitiesplanning/traditional-schools-consultation-2024), and the same kind of growth pressure exists elsewhere in the district. Boundaries can move. New schools can open to handle extra kids, and catchments can shift as a result.
+Cloverdale is a great place to raise kids, but it's growing fast. [Surrey Schools has identified rapid enrolment growth and student-capacity shortages in Cloverdale](https://www.surreyschools.ca/demographicsandfacilitiesplanning/traditional-schools-consultation-2024){: target="_blank" rel="noopener noreferrer" }, and the same kind of growth pressure exists elsewhere in the district. Boundaries can move. New schools can open to handle extra kids, and catchments can shift as a result.
 
-So here's the rule I give every family: never trust the school name in a listing. Always check the exact address using the official [Surrey Schools School Locator](https://www.surreyschools.ca/demographicsandfacilitiesplanning/school-locator), and confirm registration details with the district.
+So here's the rule I give every family: never trust the school name in a listing. Always check the exact address using the official [Surrey Schools School Locator](https://www.surreyschools.ca/demographicsandfacilitiesplanning/school-locator){: target="_blank" rel="noopener noreferrer" }, and confirm registration details with the district.
 
 ## The Recreation Vibe: Casual vs. Competitive
 
 This one comes down to how competitive your kids' sports are.
 
-Cloverdale can be a practical advantage for families whose kids regularly use major hockey, baseball, or soccer facilities. [Cloverdale Athletic Park](https://www.surrey.ca/parks-recreation/parks/cloverdale-athletic-park) at **6330 168 Street**, [Cloverdale Ball Park](https://www.surrey.ca/parks-recreation/parks/cloverdale-ball-park) at **17383 61A Avenue**, and the [Cloverdale Sport & Ice Complex](https://www.surrey.ca/parks-recreation/recreation-facilities/cloverdale-sport-ice-complex) at **6336 177B Street** are the big draws. That said, the better location still depends on your child's league, where practices are actually held, their age group, and what's available for registration at the time.
+Cloverdale can be a practical advantage for families whose kids regularly use major hockey, baseball, or soccer facilities. [Cloverdale Athletic Park](https://www.surrey.ca/parks-recreation/parks/cloverdale-athletic-park){: target="_blank" rel="noopener noreferrer" } at **6330 168 Street**, [Cloverdale Ball Park](https://www.surrey.ca/parks-recreation/parks/cloverdale-ball-park){: target="_blank" rel="noopener noreferrer" } at **17383 61A Avenue**, and the [Cloverdale Sport & Ice Complex](https://www.surrey.ca/parks-recreation/recreation-facilities/cloverdale-sport-ice-complex){: target="_blank" rel="noopener noreferrer" } at **6336 177B Street** are the big draws. That said, the better location still depends on your child's league, where practices are actually held, their age group, and what's available for registration at the time.
 
-Fleetwood sits somewhere in between organized and casual. The [Fleetwood Community Centre](https://www.surrey.ca/parks-recreation/recreation-facilities/fleetwood-community-centre) at **15996 84 Avenue**, the Fleetwood branch of Surrey Libraries, and [Fleetwood Park](https://www.surrey.ca/parks-recreation/parks/fleetwood-park) at **15802 80 Avenue** all sit close together, so they fit naturally into everyday life. And the [Surrey Sport & Leisure Complex](https://www.surrey.ca/parks-recreation/recreation-facilities/surrey-sport-leisure-complex) at **16555 Fraser Highway** gives you swimming and skating without leaving the neighbourhood.
+Fleetwood sits somewhere in between organized and casual. The [Fleetwood Community Centre](https://www.surrey.ca/parks-recreation/recreation-facilities/fleetwood-community-centre){: target="_blank" rel="noopener noreferrer" } at **15996 84 Avenue**, the Fleetwood branch of Surrey Libraries, and [Fleetwood Park](https://www.surrey.ca/parks-recreation/parks/fleetwood-park){: target="_blank" rel="noopener noreferrer" } at **15802 80 Avenue** all sit close together, so they fit naturally into everyday life. And the [Surrey Sport & Leisure Complex](https://www.surrey.ca/parks-recreation/recreation-facilities/surrey-sport-leisure-complex){: target="_blank" rel="noopener noreferrer" } at **16555 Fraser Highway** gives you swimming and skating without leaving the neighbourhood.
 
 ## The Housing Trade-off: Streetscape vs. Polished Interior
 
@@ -74,9 +74,9 @@ Fleetwood has plenty of mature streetscapes, wider streets, bigger trees, more s
 
 Both areas are growing, but the engines behind that growth are different.
 
-Fleetwood's growth is tied to the [Surrey Langley SkyTrain extension](https://surreylangleyskytrain.gov.bc.ca/project-overview/), which is currently anticipated to enter service in **late 2029**. Increased density and transit-oriented development are planned along the Fraser Highway corridor, and over time this may support additional shops and services in the area.
+Fleetwood's growth is tied to the [Surrey Langley SkyTrain extension](https://surreylangleyskytrain.gov.bc.ca/project-overview/){: target="_blank" rel="noopener noreferrer" }, which is currently anticipated to enter service in **late 2029**. Increased density and transit-oriented development are planned along the Fraser Highway corridor, and over time this may support additional shops and services in the area.
 
-Cloverdale's growth is broader. One major influence is the [new Surrey hospital and BC Cancer Centre](https://www.fraserhealth.ca/capital-projects/projects/Surrey/the-new-surrey-hospital-and-bc-cancer-centre), which is scheduled to open to patients in **2030**. That project may add employment, services, construction activity, and surrounding development in the years around its opening.
+Cloverdale's growth is broader. One major influence is the [new Surrey hospital and BC Cancer Centre](https://www.fraserhealth.ca/capital-projects/projects/Surrey/the-new-surrey-hospital-and-bc-cancer-centre){: target="_blank" rel="noopener noreferrer" }, which is scheduled to open to patients in **2030**. That project may add employment, services, construction activity, and surrounding development in the years around its opening.
 
 ## The "Gut Check" Tie-Breaker
 
@@ -108,7 +108,7 @@ If you're still deciding whether the overall Fleetwood lifestyle fits, my guide 
 
   <details>
     <summary>How do I know if I'm buying into a high-construction area?</summary>
-    <p>Check the official project information before you buy. For Fleetwood, review the current <a href="https://surreylangleyskytrain.gov.bc.ca/">Surrey Langley SkyTrain project updates</a>. For Cloverdale, review the <a href="https://www.fraserhealth.ca/capital-projects/projects/Surrey/the-new-surrey-hospital-and-bc-cancer-centre">new Surrey hospital and BC Cancer Centre project</a>. Construction schedules, traffic impacts, and nearby work can change, so evaluate the exact address rather than relying on how the street feels during one showing.</p>
+    <p>Check the official project information before you buy. For Fleetwood, review the current <a href="https://surreylangleyskytrain.gov.bc.ca/" target="_blank" rel="noopener noreferrer">Surrey Langley SkyTrain project updates</a>. For Cloverdale, review the <a href="https://www.fraserhealth.ca/capital-projects/projects/Surrey/the-new-surrey-hospital-and-bc-cancer-centre" target="_blank" rel="noopener noreferrer">new Surrey hospital and BC Cancer Centre project</a>. Construction schedules, traffic impacts, and nearby work can change, so evaluate the exact address rather than relying on how the street feels during one showing.</p>
   </details>
 
   <details>

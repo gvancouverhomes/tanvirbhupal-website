@@ -44,7 +44,7 @@ The safest approach is simple: **check the exact property address, understand th
 
 For the 2026-27 school year, Surrey Schools says students begin by registering based on their residential address.
 
-You can confirm the catchment for a specific property using the official [Surrey Schools School Locator](https://www.surreyschools.ca/find-a-school).
+You can confirm the catchment for a specific property using the official [Surrey Schools School Locator](https://www.surreyschools.ca/find-a-school){: target="_blank" rel="noopener noreferrer" }.
 
 This distinction matters for relocating families.
 
@@ -84,7 +84,7 @@ Surrey Schools currently lists a **32-classroom addition** for Fleetwood Park Se
 
 That is a target, not something I would treat as a guaranteed construction date when planning a child's September start.
 
-You can check the latest status through the district's [current capital projects information](https://www.surreyschools.ca/capitalprojectoffice/current-projects).
+You can check the latest status through the district's [current capital projects information](https://www.surreyschools.ca/capitalprojectoffice/current-projects){: target="_blank" rel="noopener noreferrer" }.
 
 The school itself is at the centre of an established family area, but growth and school capacity are exactly why the catchment should be treated as something to verify rather than something to assume.
 
@@ -207,12 +207,12 @@ For a relocating family, that distinction is worth understanding before the home
 
 ## Official Sources
 
-- [Surrey Schools: School Registration](https://www.surreyschools.ca/school-registration)
-- [Surrey Schools: Registration Documentation](https://media.surreyschools.ca/media/Default/medialib/surrey-schools-registration-acceptable-documentation.f5d2f2175443.pdf)
-- [Surrey Schools: Find a School and School Locator](https://www.surreyschools.ca/find-a-school)
-- [Surrey Schools: Fleetwood Park Secondary](https://www.surreyschools.ca/fltsec)
-- [Surrey Schools: Current Capital Projects](https://www.surreyschools.ca/capitalprojectoffice/current-projects)
-- [Surrey Schools: New Student Registration and Out-of-Catchment Schools](https://media.surreyschools.ca/media/Default/medialib/new-student-registration.63624680081.pdf)
+- [Surrey Schools: School Registration](https://www.surreyschools.ca/school-registration){: target="_blank" rel="noopener noreferrer" }
+- [Surrey Schools: Registration Documentation](https://media.surreyschools.ca/media/Default/medialib/surrey-schools-registration-acceptable-documentation.f5d2f2175443.pdf){: target="_blank" rel="noopener noreferrer" }
+- [Surrey Schools: Find a School and School Locator](https://www.surreyschools.ca/find-a-school){: target="_blank" rel="noopener noreferrer" }
+- [Surrey Schools: Fleetwood Park Secondary](https://www.surreyschools.ca/fltsec){: target="_blank" rel="noopener noreferrer" }
+- [Surrey Schools: Current Capital Projects](https://www.surreyschools.ca/capitalprojectoffice/current-projects){: target="_blank" rel="noopener noreferrer" }
+- [Surrey Schools: New Student Registration and Out-of-Catchment Schools](https://media.surreyschools.ca/media/Default/medialib/new-student-registration.63624680081.pdf){: target="_blank" rel="noopener noreferrer" }
 
 *School catchments, registration procedures, capacity and construction schedules can change. Confirm the exact address and current school information directly with Surrey Schools before relying on it for a home purchase.*
 

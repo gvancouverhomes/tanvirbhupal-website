@@ -30,7 +30,7 @@ cta_label: "Talk through your move"
 cta_url: /coordinating-a-move/
 ---
 
-**Updated August 19, 2026:** Travel times are not guaranteed commute times. Traffic, incidents, weather, parking, construction, transfers, and transit service changes can materially change the trip. Before relying on any commute estimate, use [TransLink's current Trip Planner](https://www.translink.ca/trip-planner) and test the drive at the actual time you expect to travel.
+**Updated August 19, 2026:** Travel times are not guaranteed commute times. Traffic, incidents, weather, parking, construction, transfers, and transit service changes can materially change the trip. Before relying on any commute estimate, use [TransLink's current Trip Planner](https://www.translink.ca/trip-planner){: target="_blank" rel="noopener noreferrer" } and test the drive at the actual time you expect to travel.
 
 If you're moving to Fleetwood and working in Downtown Vancouver, plan for a real commute. The exact time depends on where in Fleetwood you start, exactly where downtown you're headed, when you leave, how far you are from a bus stop, and how many transfers you need.
 
@@ -54,11 +54,11 @@ That's why I wouldn't judge a home by its estimated drive time on a quiet Saturd
 
 ## The Transit Reality
 
-As of August 2026, the Surrey Langley SkyTrain extension is still under construction, with a current anticipated in-service date of **late 2029**, according to the official [Surrey Langley SkyTrain project](https://www.surreylangleyskytrain.ca/).
+As of August 2026, the Surrey Langley SkyTrain extension is still under construction, with a current anticipated in-service date of **late 2029**, according to the official [Surrey Langley SkyTrain project](https://www.surreylangleyskytrain.ca/){: target="_blank" rel="noopener noreferrer" }.
 
 Until the extension opens, many Fleetwood transit trips toward Downtown Vancouver still require a bus-to-SkyTrain connection.
 
-The [503 Fraser Hwy Express](https://www.translink.ca/schedules-and-maps/route/503/direction/1/schedule) and [502 Fraser Hwy](https://www.translink.ca/schedules-and-maps/route/502/direction/1/schedule) both connect the Fraser Highway corridor with Surrey Central Station. From Surrey Central, the Expo Line runs west toward Downtown Vancouver.
+The [503 Fraser Hwy Express](https://www.translink.ca/schedules-and-maps/route/503/direction/1/schedule){: target="_blank" rel="noopener noreferrer" } and [502 Fraser Hwy](https://www.translink.ca/schedules-and-maps/route/502/direction/1/schedule){: target="_blank" rel="noopener noreferrer" } both connect the Fraser Highway corridor with Surrey Central Station. From Surrey Central, the Expo Line runs west toward Downtown Vancouver.
 
 TransLink's current station-to-station travel-time information puts **Surrey Central to Waterfront at approximately 39 minutes** once you're on the train.
 
@@ -74,7 +74,7 @@ Want the SkyTrain without depending on the bus for the first part of the trip?
 
 A Park and Ride can be the middle ground.
 
-TransLink's current [Park and Ride information](https://www.translink.ca/rider-guide/driving/park-and-ride) lists **Scott Road Station** as a dedicated Park and Ride location with **1,494 parking spaces**, a **$3 daily rate**, and a **$60 30-day rate**.
+TransLink's current [Park and Ride information](https://www.translink.ca/rider-guide/driving/park-and-ride){: target="_blank" rel="noopener noreferrer" } lists **Scott Road Station** as a dedicated Park and Ride location with **1,494 parking spaces**, a **$3 daily rate**, and a **$60 30-day rate**.
 
 Scott Road Station is at Scott Road and King George Boulevard and connects directly with the Expo Line.
 
@@ -104,7 +104,7 @@ The Province currently identifies three future stations directly relevant to Fle
 - **Fleetwood Station**, planned for the northeast corner of 160 Street and Fraser Highway
 - **Bakerview-166 Street Station**, planned for the northwest corner of 166 Street and Fraser Highway, with an integrated transit exchange
 
-You can see the official locations on the [Surrey Langley SkyTrain station page](https://surreylangleyskytrain.gov.bc.ca/stations/).
+You can see the official locations on the [Surrey Langley SkyTrain station page](https://surreylangleyskytrain.gov.bc.ca/stations/){: target="_blank" rel="noopener noreferrer" }.
 
 Once the extension is operating, homes within practical walking or connecting distance of those stations will have a different transit relationship with the existing Expo Line than they do today.
 
@@ -121,7 +121,7 @@ And if you're coming from Burnaby, the commute is only one side of the decision.
 <div class="faq-list">
   <details>
     <summary>How much does it cost to park at Scott Road Station?</summary>
-    <p>As of August 19, 2026, TransLink lists Scott Road Park and Ride with 1,494 spaces, a $3 daily parking rate and a $60 30-day rate. Parking rules and rates can change, so confirm them on the official <a href="https://www.translink.ca/rider-guide/driving/park-and-ride">TransLink Park and Ride page</a> before relying on them.</p>
+    <p>As of August 19, 2026, TransLink lists Scott Road Park and Ride with 1,494 spaces, a $3 daily parking rate and a $60 30-day rate. Parking rules and rates can change, so confirm them on the official <a href="https://www.translink.ca/rider-guide/driving/park-and-ride" target="_blank" rel="noopener noreferrer">TransLink Park and Ride page</a> before relying on them.</p>
   </details>
 
   <details>

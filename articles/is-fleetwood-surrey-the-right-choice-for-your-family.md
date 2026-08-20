@@ -74,11 +74,11 @@ For older students, Fleetwood Park Secondary and Enver Creek Secondary serve loc
 
 There are independent options too, including Holy Cross Regional High School and St. Matthew's Elementary.
 
-One thing to know: school boundaries don't always follow the map the way you'd expect, and they can shift as enrollment pressures change. Before you buy, check the official [Surrey Schools School Locator](https://www.surreyschools.ca/demographicsandfacilitiesplanning/school-locator) for the exact address. Don't assume based on the street.
+One thing to know: school boundaries don't always follow the map the way you'd expect, and they can shift as enrollment pressures change. Before you buy, check the official [Surrey Schools School Locator](https://www.surreyschools.ca/demographicsandfacilitiesplanning/school-locator){: target="_blank" rel="noopener noreferrer" } for the exact address. Don't assume based on the street.
 
 ## Transit Evolution: Growth Without Sacrificing Neighbourhood Quiet
 
-Fleetwood's transportation picture is changing with the [Surrey Langley SkyTrain project](https://surreylangleyskytrain.gov.bc.ca/project-overview/), a provincially delivered extension of the Expo Line along the Fraser Highway corridor. The project includes 152 Street Station and Fleetwood Station at 160 Street, and the current anticipated in-service date is late 2029.
+Fleetwood's transportation picture is changing with the [Surrey Langley SkyTrain project](https://surreylangleyskytrain.gov.bc.ca/project-overview/){: target="_blank" rel="noopener noreferrer" }, a provincially delivered extension of the Expo Line along the Fraser Highway corridor. The project includes 152 Street Station and Fleetwood Station at 160 Street, and the current anticipated in-service date is late 2029.
 
 Here's what that means for homebuyers:
 
@@ -92,11 +92,11 @@ Interior subdivisions, like the ones near Berkshire Park or 88 Avenue, tend to s
 
 A neighbourhood earns its keep in the small stuff. How easy is it to run errands? Where do the kids play? Fleetwood covers the basics well, with parks, rec facilities, and retail spread through the area.
 
-The [Fleetwood Community Centre](https://www.surrey.ca/parks-recreation/recreation-facilities/fleetwood-community-centre) and [Fleetwood Branch of Surrey Libraries](https://www.surreylibraries.ca/locations/fleetwood-branch), at 15996 84 Avenue, act as a community hub. The centre runs programs for different ages, including preschool, youth, adult and seniors activities, and the library operates from the same site.
+The [Fleetwood Community Centre](https://www.surrey.ca/parks-recreation/recreation-facilities/fleetwood-community-centre){: target="_blank" rel="noopener noreferrer" } and [Fleetwood Branch of Surrey Libraries](https://www.surreylibraries.ca/locations/fleetwood-branch){: target="_blank" rel="noopener noreferrer" }, at 15996 84 Avenue, act as a community hub. The centre runs programs for different ages, including preschool, youth, adult and seniors activities, and the library operates from the same site.
 
-For green space, there's [Surrey Lake Park](https://www.surrey.ca/parks-recreation/parks/surrey-lake-park) nearby, along with [Tynehead Regional Park](https://metrovancouver.org/services/regional-parks/park/tynehead-regional-park) just outside Fleetwood, a nearby regional park with nature trails and leash-optional dog areas that many Fleetwood residents use. Add in [Fleetwood Park](https://www.surrey.ca/parks-recreation/parks/fleetwood-park) for sports and a handful of smaller neighbourhood playgrounds, and there's no shortage of places to get outside.
+For green space, there's [Surrey Lake Park](https://www.surrey.ca/parks-recreation/parks/surrey-lake-park){: target="_blank" rel="noopener noreferrer" } nearby, along with [Tynehead Regional Park](https://metrovancouver.org/services/regional-parks/park/tynehead-regional-park){: target="_blank" rel="noopener noreferrer" } just outside Fleetwood, a nearby regional park with nature trails and leash-optional dog areas that many Fleetwood residents use. Add in [Fleetwood Park](https://www.surrey.ca/parks-recreation/parks/fleetwood-park){: target="_blank" rel="noopener noreferrer" } for sports and a handful of smaller neighbourhood playgrounds, and there's no shortage of places to get outside.
 
-For everyday shopping, the plazas along Fraser Highway have you covered, with a Save-On-Foods and a [Fresh St. Market](https://www.freshstmarket.com/contact/surrey) close by. You can knock out your errands without driving across town to a big shopping centre.
+For everyday shopping, the plazas along Fraser Highway have you covered, with a Save-On-Foods and a [Fresh St. Market](https://www.freshstmarket.com/contact/surrey){: target="_blank" rel="noopener noreferrer" } close by. You can knock out your errands without driving across town to a big shopping centre.
 
 ## Frequently Asked Questions
 
@@ -118,6 +118,6 @@ For everyday shopping, the plazas along Fraser Highway have you covered, with a 
 
   <details>
     <summary>How can I confirm which school catchment a specific home falls into?</summary>
-    <p>Surrey's catchment boundaries are strict, and they don't just follow a simple radius on a map. Before you make an offer, plug the exact address into the official <a href="https://www.surreyschools.ca/demographicsandfacilitiesplanning/school-locator">Surrey Schools School Locator</a> to confirm which elementary and secondary schools apply.</p>
+    <p>Surrey's catchment boundaries are strict, and they don't just follow a simple radius on a map. Before you make an offer, plug the exact address into the official <a href="https://www.surreyschools.ca/demographicsandfacilitiesplanning/school-locator" target="_blank" rel="noopener noreferrer">Surrey Schools School Locator</a> to confirm which elementary and secondary schools apply.</p>
   </details>
 </div>

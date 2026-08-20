@@ -40,7 +40,7 @@ At some point, buyers notice they're organizing their whole life around a condo'
 
 If you're used to walking out your door and straight onto a train platform, the Fleetwood commute will take some getting used to. This isn't a small inconvenience. It changes the shape of your whole day.
 
-Until the [Surrey Langley SkyTrain extension](https://surreylangleyskytrain.gov.bc.ca/project-overview/) opens, transit trips from Fleetwood toward Vancouver generally still require a bus connection to the existing Expo Line. The [503 Fraser Highway Express](https://www.translink.ca/schedules-and-maps/route/503/direction/1/schedule) is one of the main routes along Fraser Highway and serves King George Station and Surrey Central Station. How smooth the trip feels depends on where you live, how close you are to a useful stop, your departure time and how the connections line up.
+Until the [Surrey Langley SkyTrain extension](https://surreylangleyskytrain.gov.bc.ca/project-overview/){: target="_blank" rel="noopener noreferrer" } opens, transit trips from Fleetwood toward Vancouver generally still require a bus connection to the existing Expo Line. The [503 Fraser Highway Express](https://www.translink.ca/schedules-and-maps/route/503/direction/1/schedule){: target="_blank" rel="noopener noreferrer" } is one of the main routes along Fraser Highway and serves King George Station and Surrey Central Station. How smooth the trip feels depends on where you live, how close you are to a useful stop, your departure time and how the connections line up.
 
 If you want to look at the commute in more detail before deciding, my guide to [commuting from Fleetwood Surrey to Downtown Vancouver]({{ '/articles/commuting-from-fleetwood-surrey-to-downtown-vancouver-dated-car-and-transit-scenarios/' | relative_url }}) breaks down the car and transit trade-offs.
 
@@ -50,7 +50,7 @@ Buyers heading downtown five days a week tend to struggle more with this change.
 
 Most Burnaby buyers start their Fleetwood search with a transit-first mindset. They gravitate toward the Fraser Highway corridor near the future Fleetwood Station at 160 Street and Fraser Highway, the area around Frost Road, or homes close to the future SkyTrain line. It feels familiar. It feels safe.
 
-Then they start touring homes, and the decision turns emotional. They walk into a quieter complex near Fleetwood Park or nearby [Tynehead Regional Park](https://metrovancouver.org/services/regional-parks/park/tynehead-regional-park). The floor plan is bigger. The trees are mature. Visitor parking may be easier. There's a real side-by-side garage instead of a squeeze. All of a sudden, a slightly longer walk to the bus stop feels like nothing.
+Then they start touring homes, and the decision turns emotional. They walk into a quieter complex near Fleetwood Park or nearby [Tynehead Regional Park](https://metrovancouver.org/services/regional-parks/park/tynehead-regional-park){: target="_blank" rel="noopener noreferrer" }. The floor plan is bigger. The trees are mature. Visitor parking may be easier. There's a real side-by-side garage instead of a squeeze. All of a sudden, a slightly longer walk to the bus stop feels like nothing.
 
 What buyers want to avoid is ending up with the worst of both worlds, a townhouse that's still cramped, still stuck next to traffic noise, and still comes with a long commute. If you're leaving Burnaby, the new place needs to earn it. More space. More quiet. That's the deal.
 
@@ -64,7 +64,7 @@ Tandem garages, where one car parks behind the other, cause a similar reaction. 
 
 If garage layout is high on your list, my guide to [Fleetwood townhomes with true side-by-side garages]({{ '/articles/where-to-find-fleetwood-townhomes-with-true-side-by-side-garages/' | relative_url }}) goes deeper into that trade-off.
 
-There is also a strata-document side to parking that is easy to overlook. Parking stalls in BC strata properties can be designated in different ways, so before you buy, confirm exactly what parking comes with the unit and how it is allocated. The Province of BC has a useful overview of [strata parking stalls and storage lockers](https://www2.gov.bc.ca/gov/content/housing-tenancy/strata-housing/renting-buying-selling/buying-and-selling-strata/parking-and-storage).
+There is also a strata-document side to parking that is easy to overlook. Parking stalls in BC strata properties can be designated in different ways, so before you buy, confirm exactly what parking comes with the unit and how it is allocated. The Province of BC has a useful overview of [strata parking stalls and storage lockers](https://www2.gov.bc.ca/gov/content/housing-tenancy/strata-housing/renting-buying-selling/buying-and-selling-strata/parking-and-storage){: target="_blank" rel="noopener noreferrer" }.
 
 Before you buy, picture a normal Tuesday morning. Who leaves first. Where the garbage bins go. Where the hockey bag ends up. That's how you know if a layout actually works for your family.
 
