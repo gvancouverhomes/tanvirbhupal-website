@@ -7,7 +7,7 @@ canonical_url: https://tanvirbhupal.com/articles/
 nav_title: Articles
 ---
 
-<section class="page-hero">
+<section class="page-hero articles-hero">
   <div class="page-shell page-shell--narrow">
     <p class="eyebrow">Fleetwood Knowledge Library</p>
 
@@ -29,7 +29,7 @@ nav_title: Articles
   </div>
 </section>
 
-<section class="page-section page-section--soft">
+<section class="page-section page-section--soft articles-start">
   <div class="page-shell page-shell--narrow" style="text-align: center;">
     <div class="section-heading">
       <p class="eyebrow">Start Here</p>
