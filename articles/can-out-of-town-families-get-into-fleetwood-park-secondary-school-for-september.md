@@ -90,13 +90,13 @@ The school itself is at the centre of an established family area, but growth and
 
 ## What Documents Will Surrey Schools Ask For?
 
-Surrey Schools requires documentation establishing the student's identity, guardianship and the parent or guardian's residence.
+Surrey Schools requires documentation establishing the student’s identity, guardianship and the parent or guardian’s residence.
 
 For families who have already purchased a home but have not yet updated their government-issued identification to the new address, there is an important detail.
 
-Surrey Schools currently lists a **property purchase agreement** as one of the documents that can be used to help establish the parent or guardian's address when valid government-issued documentation showing that address is not available.
+Surrey Schools currently lists a **property purchase agreement** as one of the documents that can be used to help establish the parent or guardian’s address when valid government-issued documentation showing that address is not available.
 
-The district says families in that situation should provide **at least two acceptable documents** showing the parent or guardian's name and address. A property purchase agreement is one of the listed options, along with documents such as utility bills, insurance documents, bank statements and rental agreements. ([Surrey Schools registration documentation](https://media.surreyschools.ca/media/Default/medialib/surrey-schools-registration-acceptable-documentation.f5d2f2175443.pdf))
+The district says families in that situation should provide **at least two acceptable documents** showing the parent or guardian’s name and address. A property purchase agreement is one of the listed options, along with documents such as utility bills, insurance documents, bank statements and rental agreements. You can review the current requirements on the [Surrey Schools registration page](https://www.surreyschools.ca/school-registration).
 
 This can be particularly useful for a family moving into Surrey from another city or province.
 
@@ -104,12 +104,12 @@ But there is an important distinction:
 
 **A property purchase agreement can help establish residence. It does not guarantee placement at Fleetwood Park Secondary.**
 
-I also would not tell a buyer that the purchase agreement needs to be subject-free. Surrey Schools' published documentation does not make that distinction.
+I also would not tell a buyer that the purchase agreement needs to be subject-free. Surrey Schools’ published documentation does not make that distinction.
 
 If you are buying from outside Surrey, keep the school-registration process separate from the real estate contract:
 
-1. Confirm the property's current school catchment using the exact address.
-2. Review Surrey Schools' current proof-of-residence requirements.
+1. Confirm the property’s current school catchment using the exact address.
+2. Review Surrey Schools’ current proof-of-residence requirements.
 3. Gather the required documents as early as practical.
 4. Ask the school how your specific purchase and moving timeline should be handled.
 5. Do not remove real estate subjects simply because you believe doing so will secure school placement.
