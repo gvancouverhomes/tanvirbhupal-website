@@ -191,7 +191,7 @@ last_modified_at: 2026-08-02
     </div>
 
     <div class="resource-grid">
-      <a class="resource-card" href="/articles/fleetwood/raising-a-family/">
+     <a class="resource-card" href="{{ '/articles/fleetwood/raising-a-family/' | relative_url }}">
         <h3>Raising a Family in Fleetwood</h3>
         <p>Schools, safety, childcare, recreation, healthcare, and the routines that shape family life.</p>
         <span>Explore family guidance</span>
