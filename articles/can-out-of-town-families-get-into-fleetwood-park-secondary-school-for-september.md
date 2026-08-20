@@ -96,7 +96,7 @@ For families who have already purchased a home but have not yet updated their go
 
 Surrey Schools currently lists a **property purchase agreement** as one of the documents that can be used to help establish the parent or guardian’s address when valid government-issued documentation showing that address is not available.
 
-The district says families in that situation should provide **at least two acceptable documents** showing the parent or guardian’s name and address. A property purchase agreement is one of the listed options, along with documents such as utility bills, insurance documents, bank statements and rental agreements. You can review the current requirements on the [Surrey Schools registration page](https://www.surreyschools.ca/school-registration).
+The district says families in that situation should provide **at least two acceptable documents** showing the parent or guardian’s name and address. A property purchase agreement is one of the listed options, along with documents such as utility bills, insurance documents, bank statements and rental agreements. You can review the current requirements on the [Surrey Schools documentation page](https://www.surreyschools.ca/documentation).
 
 This can be particularly useful for a family moving into Surrey from another city or province.
 
