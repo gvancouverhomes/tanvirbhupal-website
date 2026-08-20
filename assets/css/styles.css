@@ -546,7 +546,13 @@ p {
   font-size: clamp(3rem, 4.2vw, 4.25rem);
   line-height: 1.02;
 }
+.article-page > .page-section--soft:first-of-type {
+  padding: 32px 0;
+}
 
+.article-page > .page-section--soft:first-of-type .key-takeaway {
+  margin-top: 0 !important;
+}
 /* =========================================================
    INTERIOR PAGE COMPONENTS
    ========================================================= */
