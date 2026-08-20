@@ -191,48 +191,48 @@ last_modified_at: 2026-08-02
     </div>
 
     <div class="resource-grid">
-     <a class="resource-card" href="{{ '/articles/fleetwood/raising-a-family/' | relative_url }}">
-        <h3>Raising a Family in Fleetwood</h3>
-        <p>Schools, safety, childcare, recreation, healthcare, and the routines that shape family life.</p>
-        <span>Explore family guidance</span>
-      </a>
+  <a class="resource-card" href="{{ '/articles/fleetwood/raising-a-family/' | relative_url }}">
+    <h3>Raising a Family in Fleetwood</h3>
+    <p>Schools, safety, childcare, recreation, healthcare, and the routines that shape family life.</p>
+    <span>Explore family guidance</span>
+  </a>
 
-      <a class="resource-card" href="/articles/fleetwood/living/">
-        <h3>Living in Fleetwood</h3>
-        <p>Parks, shopping, dining, roads, convenience, quieter locations, and everyday life.</p>
-        <span>Explore daily life</span>
-      </a>
+  <a class="resource-card" href="{{ '/articles/fleetwood/living/' | relative_url }}">
+    <h3>Living in Fleetwood</h3>
+    <p>Parks, shopping, dining, roads, convenience, quieter locations, and everyday life.</p>
+    <span>Explore daily life</span>
+  </a>
 
-     <a class="resource-card" href="{{ '/articles/moving-to-fleetwood/' | relative_url }}">
-        <h3>Moving to Fleetwood</h3>
-        <p>Commutes, boundaries, nearby-area comparisons, and the trade-offs involved in relocating.</p>
-        <span>Explore relocation guidance</span>
-      </a>
+  <a class="resource-card" href="{{ '/articles/moving-to-fleetwood/' | relative_url }}">
+    <h3>Moving to Fleetwood</h3>
+    <p>Commutes, boundaries, nearby-area comparisons, and the trade-offs involved in relocating.</p>
+    <span>Explore relocation guidance</span>
+  </a>
 
-      <a class="resource-card" href="/articles/fleetwood/growth-and-skytrain/">
-        <h3>Fleetwood Growth and SkyTrain</h3>
-        <p>Stations, construction, planning, redevelopment, and transit-oriented neighbourhood change.</p>
-        <span>Explore growth and transit</span>
-      </a>
+  <a class="resource-card" href="{{ '/articles/fleetwood/growth-and-skytrain/' | relative_url }}">
+    <h3>Fleetwood Growth and SkyTrain</h3>
+    <p>Stations, construction, planning, redevelopment, and transit-oriented neighbourhood change.</p>
+    <span>Explore growth and transit</span>
+  </a>
 
-      <a class="resource-card" href="/articles/fleetwood/housing-guide/">
-        <h3>Fleetwood Townhome and Housing Guide</h3>
-        <p>Detached homes, townhomes, strata costs, garages, parking, and housing choices.</p>
-        <span>Explore housing options</span>
-      </a>
+  <a class="resource-card" href="{{ '/articles/fleetwood/housing-guide/' | relative_url }}">
+    <h3>Fleetwood Townhome and Housing Guide</h3>
+    <p>Detached homes, townhomes, strata costs, garages, parking, and housing choices.</p>
+    <span>Explore housing options</span>
+  </a>
 
-      <a class="resource-card" href="/articles/fleetwood/property-due-diligence/">
-        <h3>Fleetwood Property Due Diligence</h3>
-        <p>Suites, inspections, subdivisions, watercourses, rights-of-way, renovations, and property constraints.</p>
-        <span>Explore property checks</span>
-      </a>
+  <a class="resource-card" href="{{ '/articles/fleetwood/property-due-diligence/' | relative_url }}">
+    <h3>Fleetwood Property Due Diligence</h3>
+    <p>Suites, inspections, subdivisions, watercourses, rights-of-way, renovations, and property constraints.</p>
+    <span>Explore property checks</span>
+  </a>
 
-      <a class="resource-card" href="/articles/fleetwood/real-estate-strategy/">
-        <h3>Fleetwood Real Estate Strategy</h3>
-        <p>Pricing, negotiation, selling timelines, market conditions, and coordinated transactions.</p>
-        <span>Explore real estate strategy</span>
-      </a>
-    </div>
+  <a class="resource-card" href="{{ '/articles/fleetwood/real-estate-strategy/' | relative_url }}">
+    <h3>Fleetwood Real Estate Strategy</h3>
+    <p>Pricing, negotiation, selling timelines, market conditions, and coordinated transactions.</p>
+    <span>Explore real estate strategy</span>
+  </a>
+</div>
 
     <p class="section-link"><a href="{{ '/articles/' | relative_url }}">Browse the complete Fleetwood article library</a></p>
   </div>
