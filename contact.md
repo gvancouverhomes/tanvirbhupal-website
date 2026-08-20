@@ -4,7 +4,6 @@ title: Contact Tanvir Bhupal
 description: Book a real estate conversation with Tanvir Bhupal or text a quick question about buying, selling, or moving in Fleetwood, Tynehead, Fraser Heights, and Greater Vancouver.
 permalink: /contact/
 ---
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -41,7 +40,6 @@ permalink: /contact/
   }
 }
 </script>
-
 <section class="page-hero">
   <div class="page-shell page-shell--narrow">
     <p class="eyebrow">Contact Tanvir Bhupal</p>
@@ -51,7 +49,6 @@ permalink: /contact/
     <p class="page-intro">Choose the easiest way to reach me.</p>
 
     <p>Whether you're comparing neighbourhoods, thinking about buying or selling, or coordinating both sides of a move, choose the option that works best for you.</p>
-
     <div class="button-row">
       <a
         class="button button--primary"
@@ -78,46 +75,6 @@ permalink: /contact/
   </div>
 </section>
 
-<section class="page-section page-section--soft">
-  <div class="page-shell">
-    <div class="split-grid">
-
-      <div>
-        <p class="eyebrow">Google Meet</p>
-        <h2>Book a time that works</h2>
-
-        <p>Choose a time that works for you and we'll meet on Google Meet.</p>
-
-        <div class="button-row">
-          <a
-            class="button button--primary"
-            href="https://calendar.app.google/T5VU5McB86VmskNk8"
-            target="_blank"
-            rel="noopener noreferrer"
-          >Book a Google Meet</a>
-        </div>
-      </div>
-
-      <div>
-        <p class="eyebrow">Prefer the phone?</p>
-        <h2>Book a phone call</h2>
-
-        <p>Choose a time and I'll call you at the number you provide when booking.</p>
-
-        <div class="button-row">
-          <a
-            class="button button--secondary"
-            href="https://calendar.app.google/4MM32nxRbfgWoDPs6"
-            target="_blank"
-            rel="noopener noreferrer"
-          >Book a phone call</a>
-        </div>
-      </div>
-
-    </div>
-  </div>
-</section>
-
 <section class="page-section">
   <div class="page-shell page-shell--narrow">
     <p class="eyebrow">Something quick</p>
@@ -134,7 +91,6 @@ permalink: /contact/
 <section class="page-section">
   <div class="page-shell page-shell--narrow">
     <h2>What I can help you think through</h2>
-
     <ul class="check-list">
       <li>Buying a home in Fleetwood, Tynehead, or Fraser Heights.</li>
       <li>Comparing neighbourhoods, streets, housing types, and trade-offs.</li>
@@ -143,17 +99,12 @@ permalink: /contact/
       <li>Moving into Surrey or elsewhere in Greater Vancouver.</li>
       <li>Working out whether now is actually the right time to make a move.</li>
     </ul>
-
-    <p>Not sure which category your situation fits? That's fine. Just choose the contact option that feels easiest.</p>
   </div>
 </section>
 
 <section class="page-section page-section--cta">
   <div class="page-shell page-shell--narrow">
     <p class="eyebrow">Other ways to reach me</p>
-    <h2>Call or email me directly.</h2>
-
-    <p>If you'd rather reach out directly, call or email me.</p>
 
     <div class="button-row button-row--center">
       <a class="button button--primary" href="tel:+16048977826">Call 604-897-7826</a>
