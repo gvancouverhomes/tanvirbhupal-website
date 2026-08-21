@@ -78,15 +78,7 @@ Fleetwood Park Secondary is at **7940 156 Street**, according to the Surrey Scho
 
 Living close to school can be incredibly convenient, but it does not mean the street is automatically quiet during the school day. From what I've seen locally, the area can become noticeably busier around morning drop-off and afternoon dismissal, with parent vehicles, turning movements and children walking through the area.
 
-I would treat that as something to observe rather than as a safety conclusion.
-
-Visit during drop-off.
-
-Come back during dismissal.
-
-Watch where vehicles stop and turn.
-
-Then walk the route your child would actually use.
+I would treat that as something to observe rather than as a safety conclusion. Visit during drop-off. Come back during dismissal. Watch where vehicles stop and turn. Then walk the route your child would actually use.
 
 Move farther north and school catchments change. Depending on the exact address, a home near 156 Street may fall into different elementary catchments. Do not assume the closest school is automatically the school assigned to the property.
 
@@ -146,11 +138,7 @@ A small rise, curve or obstruction can reduce how far a driver or pedestrian can
 
 Surrey's road-safety work considers sight distance and road conditions when assessing pedestrian infrastructure, but as a buyer you still need to evaluate the actual property yourself.
 
-Stand where your child would cross.
-
-Stand where your car would exit.
-
-Then look at how far you can see in both directions.
+Stand where your child would cross. Stand where your car would exit. Then look at how far you can see in both directions.
 
 ### Check Speeds Beyond the School-Zone Boundary
 
@@ -178,13 +166,9 @@ Those five observations will tell you much more about a specific property than t
 
 On the main road itself, I would not treat the roadway as an extension of the front yard.
 
-That is different from saying every home on 156 Street is unsuitable for a family.
+That is different from saying every home on 156 Street is unsuitable for a family. Some properties have deeper setbacks, fencing, strong pedestrian infrastructure or access to quieter routes behind the home. Others may sit only a few steps from an interior street, park or cul-de-sac.
 
-Some properties have deeper setbacks, fencing, strong pedestrian infrastructure or access to quieter routes behind the home. Others may sit only a few steps from an interior street, park or cul-de-sac.
-
-For independent outdoor play, though, I personally prefer the interior residential streets where children have more separation from through-traffic.
-
-That is one reason the precise location of the house matters so much.
+For independent outdoor play, though, I personally prefer the interior residential streets where children have more separation from through-traffic. That is one reason the precise location of the house matters so much.
 
 ## My Bottom Line
 
@@ -192,17 +176,7 @@ That is one reason the precise location of the house matters so much.
 
 Different sections serve different transportation functions. School activity changes parts of the southern corridor. Pedestrian infrastructure varies. The Fraser Highway end is moving toward a more transit-oriented future. And a house directly on the road can feel very different from a house 100 metres away inside a residential pocket.
 
-So if you're looking at a property here, focus on the block.
-
-Stand in the driveway.
-
-Walk the school route.
-
-Visit during the hours that matter.
-
-Look at the street position.
-
-Then decide whether that exact property gives your family the environment you want.
+So if you're looking at a property here, focus on the block. Stand in the driveway. Walk the school route. Visit during the hours that matter. Look at the street position. Then decide whether that exact property gives your family the environment you want.
 
 For more family-specific neighbourhood questions, continue through the [Raising a Family in Fleetwood guides]({{ '/articles/fleetwood/raising-a-family/' | relative_url }}).
 
