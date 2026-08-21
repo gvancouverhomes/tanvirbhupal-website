@@ -55,6 +55,7 @@ Many Fleetwood neighbourhoods feel established, and that gives families a sense 
 Cloverdale is a great place to raise kids, but it's growing fast. [Surrey Schools has identified rapid enrolment growth and student-capacity shortages in Cloverdale](https://www.surreyschools.ca/demographicsandfacilitiesplanning/traditional-schools-consultation-2024){: target="_blank" rel="noopener noreferrer" }, and the same kind of growth pressure exists elsewhere in the district. Boundaries can move. New schools can open to handle extra kids, and catchments can shift as a result.
 
 So here's the rule I give every family: never trust the school name in a listing. Always check the exact address using the official [Surrey Schools School Locator](https://www.surreyschools.ca/demographicsandfacilitiesplanning/school-locator){: target="_blank" rel="noopener noreferrer" }, and confirm registration details with the district.
+
 If Fleetwood Park Secondary and Enver Creek Secondary are part of your decision, my guide to [Fleetwood Park vs. Enver Creek catchments]({{ '/articles/enver-creek-secondary-vs-fleetwood-park-secondary-catchment-differences/' | relative_url }}) explains why the exact address matters.
 
 ## The Recreation Vibe: Casual vs. Competitive
