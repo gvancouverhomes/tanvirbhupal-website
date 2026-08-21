@@ -80,11 +80,15 @@ Rather than assuming that a nearby landmark decides the neighbourhood, check the
 
 Guildford lies to the east and north of Fleetwood.
 
+If you are comparing the areas rather than just trying to map the boundary, my [Fleetwood vs. Guildford comparison]({{ '/articles/should-you-buy-a-home-in-fleetwood-or-guildford-surrey/' | relative_url }}) looks at the housing, transportation and day-to-day differences separately.
+
 The northeast side also includes the [Anniedale-Tynehead planning area](https://www.surrey.ca/renovating-building-development/land-planning-development/land-use-planning/guildford-land-use-plans/anniedale-tynehead-ncp){: target="_blank" rel="noopener noreferrer" }. The City handles the Anniedale-Tynehead Neighbourhood Concept Plan within its Guildford land-use planning materials.
 
 The plan area is generally located east of 168 Street, with Highway 1 and 96 Avenue toward the north, the Agricultural Land Reserve toward the south, and Harvie Road toward the east.
 
 Those general reference points do not prove that a particular property falls inside the plan. Buyers should confirm the exact parcel using the official plan map or the City’s COSMOS mapping system.
+
+If access to the nearby regional park is part of the location decision, my guide to [living near Tynehead Regional Park]({{ '/articles/living-near-tynehead-regional-park-the-pros-and-cons-for-pet-owners/' | relative_url }}) looks at those day-to-day trade-offs in more detail.
 
 ## Berkshire Park and the Northern Fleetwood Area
 
@@ -155,6 +159,8 @@ Maps cannot tell you everything about daily life.
 Drive the area during the morning and evening. Look at traffic flow, access to Fraser Highway, walking routes, nearby construction, transit connections, and how the street relates to the places your family will actually use.
 
 A community name can help you get your bearings. But when it comes to boundaries, planning areas, schools, zoning, development applications, and property rights, the exact address is what settles the question.
+
+If you are still deciding whether Fleetwood itself fits the move, my guide to [whether Fleetwood is the right choice for your family]({{ '/articles/is-fleetwood-surrey-the-right-choice-for-your-family/' | relative_url }}) steps back from the boundary question and looks at the broader housing, schools, commute and everyday trade-offs.
 
 ## Frequently Asked Questions
 
