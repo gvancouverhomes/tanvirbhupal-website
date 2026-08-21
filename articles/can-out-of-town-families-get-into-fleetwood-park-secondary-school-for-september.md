@@ -46,11 +46,7 @@ For the 2026-27 school year, Surrey Schools says students begin by registering b
 
 You can confirm the catchment for a specific property using the official [Surrey Schools School Locator](https://www.surreyschools.ca/find-a-school){: target="_blank" rel="noopener noreferrer" }.
 
-This distinction matters for relocating families.
-
-If the home you are moving into falls within the Fleetwood Park Secondary catchment, you begin through the in-catchment registration process.
-
-If the home falls outside that boundary, you should not assume you can simply request Fleetwood Park instead.
+This distinction matters for relocating families. If the home you are moving into falls within the Fleetwood Park Secondary catchment, you begin through the in-catchment registration process. If the home falls outside that boundary, you should not assume you can simply request Fleetwood Park instead.
 
 Surrey Schools currently lists **Fleetwood Park Secondary as unable to accept out-of-catchment registrations, except siblings of current students**.
 
@@ -118,9 +114,7 @@ Financing, inspection and other purchase conditions should be handled based on t
 
 ## Do Not Assume Every Fleetwood Address Feeds Into Fleetwood Park Secondary
 
-"Fleetwood" is a neighbourhood description. It is not a school catchment.
-
-Two homes that both feel like Fleetwood can fall into different school boundaries.
+"Fleetwood" is a neighbourhood description. It is not a school catchment. Two homes that both feel like Fleetwood can fall into different school boundaries.
 
 That becomes especially important when buyers start choosing a house based on one school's reputation, programs, commute or location.
 
@@ -134,17 +128,13 @@ The same principle applies at the elementary level. My guide to [comparing eleme
 
 If school placement matters to the move, I would deal with it much earlier than the last week of August.
 
-Start with the addresses.
-
-Once a serious home enters the conversation, verify its current catchment through Surrey Schools.
+Start with the addresses. Once a serious home enters the conversation, verify its current catchment through Surrey Schools.
 
 If Fleetwood Park Secondary is the intended school and the home is inside its catchment, review the registration-document requirements and contact the school if there is anything unusual about your timing or residency situation.
 
 If the home is outside the Fleetwood Park catchment, do not build your plans around getting an out-of-catchment placement there. Surrey Schools currently lists the school as unable to accept out-of-catchment registrations except siblings of current students.
 
-Then keep a backup scenario in mind.
-
-The point is not to scare you away from buying in the catchment. It is to avoid making a major real estate decision based on a school-placement assumption that the school district itself has not confirmed.
+Then keep a backup scenario in mind. The point is not to scare you away from buying in the catchment. It is to avoid making a major real estate decision based on a school-placement assumption that the school district itself has not confirmed.
 
 For families with younger children, the same timing problem can show up with childcare. The guide to [daycare availability in Fleetwood for relocating parents]({{ '/articles/the-daycare-shortage-in-fleetwood-surrey-what-relocating-parents-must-know/' | relative_url }}) is worth reading alongside the school research.
 
@@ -152,9 +142,7 @@ And if you are still deciding whether the neighbourhood itself works for your fa
 
 ## The Practical Takeaway for Out-of-Town Families
 
-If the home you are buying is inside the Fleetwood Park Secondary catchment, Surrey Schools provides a way to register even when your government-issued identification has not yet been updated to the new address.
-
-A property purchase agreement can be one of the documents used to establish residence, alongside another acceptable document.
+If the home you are buying is inside the Fleetwood Park Secondary catchment, Surrey Schools provides a way to register even when your government-issued identification has not yet been updated to the new address. A property purchase agreement can be one of the documents used to establish residence, alongside another acceptable document.
 
 But that solves the **residency-document question**, not the **school-placement question**.
 
@@ -215,4 +203,3 @@ For a relocating family, that distinction is worth understanding before the home
 - [Surrey Schools: New Student Registration and Out-of-Catchment Schools](https://media.surreyschools.ca/media/Default/medialib/new-student-registration.63624680081.pdf){: target="_blank" rel="noopener noreferrer" }
 
 *School catchments, registration procedures, capacity and construction schedules can change. Confirm the exact address and current school information directly with Surrey Schools before relying on it for a home purchase.*
-
