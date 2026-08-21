@@ -93,19 +93,7 @@ Start with the exact address.
 
 Open the map and look at whether the property sits on an arterial road, a collector road, an interior street or a cul-de-sac. Then look at the route your children would actually use to get to school, a park, a friend's house or the community centre.
 
-If you are serious about the property, go there more than once.
-
-Visit during a weekday rush hour.
-
-Come back after school.
-
-Walk the block instead of only driving it.
-
-Stand in the driveway for five minutes and listen.
-
-Look at the intersections your children would need to cross.
-
-Then check recent incidents through the Surrey Police Service crime map.
+If you are serious about the property, go there more than once. Visit during a weekday rush hour. Come back after school. Walk the block instead of only driving it. Stand in the driveway for five minutes and listen. Look at the intersections your children would need to cross. Then check recent incidents through the Surrey Police Service crime map.
 
 Those observations will usually tell you much more than a generic neighbourhood label.
 
@@ -141,17 +129,7 @@ The better question is:
 
 **Does this particular street, property and daily route work for your family?**
 
-That is where I would focus.
-
-Look at the road.
-
-Walk the route.
-
-Check the current police data.
-
-Understand what is planned nearby.
-
-And pay attention to how the location actually feels when you are standing there.
+That is where I would focus. Look at the road. Walk the route. Check the current police data. Understand what is planned nearby. And pay attention to how the location actually feels when you are standing there.
 
 That is a much stronger way to make the decision than relying on Surrey's reputation, a neighbourhood label, or a single online crime map.
 
@@ -178,4 +156,3 @@ That is a much stronger way to make the decision than relying on Surrey's reputa
     <p>Fleetwood Community Centre at 15996 84 Avenue sits beside the Fleetwood Library, Fleetwood Park and Francis Park. Surrey Lake Park at 7500 152 Street is another nearby option, with a 1.5-kilometre nature trail around the lake.</p>
   </details>
 </div>
-
