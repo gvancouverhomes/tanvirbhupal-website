@@ -34,6 +34,17 @@ I've walked a lot of townhouse complexes in Fleetwood. Wood & Water is different
 
 [Wood & Water](https://anthemproperties.com/property/wood-water/){: target="_blank" rel="noopener noreferrer" } is an Anthem Properties community at 15255 Sitka Drive in Fleetwood. Anthem describes the overall development as a mix of 325 duplexes, townhomes and apartments next to Sequoia Ridge Park, forested trails and Eaglequest Golf.
 
+### Wood & Water at a glance
+
+- **Developer:** Anthem Properties
+- **Address:** 15255 Sitka Drive, Surrey
+- **Community size:** 325 homes
+- **Housing types:** Duplexes, townhomes and apartments
+- **Area:** Fleetwood, Surrey
+- **Nearby setting:** Sequoia Ridge Park, forested trails and Eaglequest Golf
+
+Those are the development facts. What follows is my take on the things that are harder to understand from a project page or listing photos: how the community feels, how the townhouse layouts function, what the stairs are like in everyday life, and whether the parking setup works for the way you actually live.
+
 Most people shopping for a townhouse here get stuck on square footage or finish quality. That's the wrong place to start. Wood & Water isn't like some of the tighter, higher-density development you see elsewhere around Fleetwood. It feels more open. Quieter. And that's exactly why you need to look past the listing and check if the layout actually fits how you live.
 
 ## The Community Feel: A Departure from Higher-Density Development
@@ -78,8 +89,13 @@ Visitor parking deserves the same attention. A few empty stalls during a weekday
 
 <div class="faq-list">
   <details>
-    <summary>Is Wood & Water within walking distance of the future SkyTrain stations?</summary>
-    <p>It depends on the specific home and what you consider a comfortable walk. The future 152 Street Station is planned for the northwest corner of Fraser Highway and 152 Street, while Fleetwood Station is planned for the northeast corner of 160 Street and Fraser Highway. Map the route from the actual property rather than assuming based on the general neighbourhood.</p>
+    <summary>Where is Wood & Water in Fleetwood?</summary>
+    <p>Wood & Water is at 15255 Sitka Drive in Surrey. Anthem Properties describes the development as a 325-home community of duplexes, townhomes and apartments near Sequoia Ridge Park, forested trails and Eaglequest Golf.</p>
+  </details>
+
+  <details>
+    <summary>Is Wood & Water close to the future Surrey Langley SkyTrain?</summary>
+    <p>Wood & Water sits north of the Fraser Highway SkyTrain corridor. The future 152 Street Station is planned for Fraser Highway and 152 Street, while Fleetwood Station is planned for Fraser Highway and 160 Street. Whether either station feels walkable from a particular home depends on the exact route and your own comfort with the distance, so I would map the trip from the specific address rather than relying on the general neighbourhood.</p>
   </details>
 
   <details>
@@ -89,7 +105,7 @@ Visitor parking deserves the same attention. A few empty stalls during a weekday
 
   <details>
     <summary>How does the density compare to older Fleetwood townhouses?</summary>
-    <p>Wood & Water feels more open to me than some newer higher-density developments, but it is still a modern community. Floor plans vary considerably across Fleetwood, and some older complexes may offer different room sizes, storage, parking or private outdoor space. Compare the actual homes rather than assuming newer or older is automatically better.</p>
+    <p>Wood & Water feels more open to me than some newer higher-density developments, but that is my experience of the community rather than a density statistic. Floor plans vary considerably across Fleetwood, and some older complexes may offer different room sizes, storage, parking or private outdoor space. Compare the actual homes rather than assuming newer or older is automatically better.</p>
   </details>
 
   <details>
